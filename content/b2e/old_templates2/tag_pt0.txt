@@ -1,0 +1,2 @@
+INSERT INTO  `B2E_DATABASE_NAME`.`evo_items__tag` (`tag_ID` ,`tag_name`)
+VALUES ('VAR[2][0]', 'VAR[2][1]');

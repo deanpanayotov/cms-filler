@@ -1,0 +1,1 @@
+INSERT INTO `WP_DATABASE_NAME`.`wp_term_relationships` (`object_id`, `term_taxonomy_id`, `term_order`) VALUES ('VAR[0][10]', 'VAR[0][11]', '0');

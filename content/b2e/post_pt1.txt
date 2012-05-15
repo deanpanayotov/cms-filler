@@ -1,0 +1,5 @@
+INSERT INTO `B2E_DATABASE_NAME`.`evo_items__prerendering` 
+(`itpr_itm_ID`, `itpr_format`, `itpr_renderers`, `itpr_content_prerendered`, `itpr_datemodified`)
+ VALUES[a][b][c] 
+ ('VAR[0][0]', 'htmlbody', 'b2evALnk.evo_videoplug', 'VAR[0][3]', 'VAR[0][1]'),
+ ('VAR[0][0]', 'text', 'b2evALnk.evo_videoplug', 'VAR[0][3]', 'VAR[0][1]')

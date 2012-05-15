@@ -1,0 +1,1 @@
+INSERT INTO  `B2E_DATABASE_NAME`.`evo_items__itemtag` (`itag_itm_ID` ,`itag_tag_ID`) VALUES[a][b][c] ('VAR[0][10]',  'VAR[0][11]')

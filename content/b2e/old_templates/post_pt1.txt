@@ -1,0 +1,5 @@
+INSERT INTO `b2evolution`.`evo_items__prerendering` 
+(`itpr_itm_ID`, `itpr_format`, `itpr_renderers`, `itpr_content_prerendered`, `itpr_datemodified`)
+ VALUES 
+ ('39', 'htmlbody', 'b2evALnk.evo_videoplug', '<p>this is tha shit maan</p>', '2012-04-29 16:27:00'),
+ ('39', 'text', 'b2evALnk.evo_videoplug', '<p>this is tha shit maan</p>', '2012-04-29 16:27:00');

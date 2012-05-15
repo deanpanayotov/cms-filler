@@ -1,0 +1,1 @@
+INSERT INTO `wordpress`.`wp_term_taxonomy` (`term_taxonomy_id`, `term_id`, `taxonomy`, `description`, `parent`, `count`) VALUES ('7', '7', 'post_tag', '', '0', '1');

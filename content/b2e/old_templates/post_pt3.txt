@@ -1,0 +1,1 @@
+INSERT INTO `b2evolution`.`evo_postcats` (`postcat_post_ID`, `postcat_cat_ID`) VALUES ('39', '9');

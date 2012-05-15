@@ -1,0 +1,1 @@
+INSERT INTO `B2E_DATABASE_NAME`.`evo_postcats` (`postcat_post_ID`, `postcat_cat_ID`) VALUES[a][b][c] ('VAR[0][0]', 'VAR[0][11]')

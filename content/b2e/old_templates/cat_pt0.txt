@@ -1,0 +1,4 @@
+INSERT INTO `b2evolution`.`evo_categories` 
+(`cat_ID`, `cat_parent_ID`, `cat_name`, `cat_urlname`, `cat_blog_ID`, `cat_description`, `cat_order`) 
+VALUES 
+(11, NULL, 'Aaaa', 'aaaa', '1', NULL, NULL);

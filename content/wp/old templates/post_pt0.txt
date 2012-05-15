@@ -1,0 +1,32 @@
+INSERT INTO `wordpress`.`wp_posts` 
+(`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, `post_title`, `post_excerpt`, `post_status`, `comment_status`,
+ `ping_status`, `post_password`, `post_name`, `to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`,
+ `guid`, `menu_order`, `post_type`, `post_mime_type`, `comment_count`)
+ VALUES 
+ (19, '1', '2012-04-29 12:41:35', '2012-04-29 12:41:35',
+ 'This <strong>is</strong> a <em>comparison</em> between the two content management systems.<del>bullshit</del>
+<ul>
+	<li>uo list 0</li>
+	<li>uo list 1</li>
+	<li>uo list 2</li>
+</ul>
+<ol>
+	<li>o list 0</li>
+	<li>o list 1</li>
+	<li>o list 2</li>
+</ol>
+<div><!--more--></div>
+&nbsp;
+<p style="text-align: right;">align this right</p>
+<p style="text-align: center;">align this center</p>
+<p style="text-align: center;"></p>
+align this left
+
+<span style="color: #ff0000;"> this is red</span>
+
+<a href="http://google.com" target="_blank">this is google</a>
+
+<a href="http://localhost/wp/wp-content/uploads/2012/04/Explode1.gif"><img class="aligncenter size-full wp-image-16" title="Explode" src="http://localhost/wp/wp-content/uploads/2012/04/Explode1.gif" alt="" width="32" height="32" /></a>',
+ 'equal post', '', 'publish', 'open',
+ 'open', '', 'equal_post', '', '', '2012-04-29 12:41:35', '2012-04-29 12:41:35', '', '0', 'http://localhost/wp/?p=19', '0', 'post', '', '0');
+ 

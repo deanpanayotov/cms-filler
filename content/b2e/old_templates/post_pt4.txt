@@ -1,0 +1,1 @@
+INSERT INTO  `b2evolution`.`evo_items__itemtag` (`itag_itm_ID` ,`itag_tag_ID`) VALUES ('39',  '10');

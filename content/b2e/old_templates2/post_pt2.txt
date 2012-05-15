@@ -1,0 +1,2 @@
+INSERT INTO `B2E_DATABASE_NAME`.`evo_slug` (`slug_ID`, `slug_title`, `slug_type`, `slug_itm_ID`) 
+VALUES ('VAR[0][13]', 'VAR[0][5]', 'item', 'VAR[0][0]'), ('VAR[0][14]', 'VAR[0][17]', 'item', 'VAR[0][0]');

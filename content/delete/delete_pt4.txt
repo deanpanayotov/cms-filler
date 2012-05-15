@@ -1,0 +1,1 @@
+DELETE FROM `WP_DATABASE_NAME`.`wp_terms`

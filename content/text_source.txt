@@ -1,0 +1,957 @@
+Entropy is a thermodynamic property that can be used to determine the energy not available for work in a thermodynamic process, such as in energy conversion devices, engines, or machines. Such devices can only be driven by convertible energy, and have a theoretical maximum efficiency when converting energy to work. During this work, entropy accumulates in the system, which then dissipates in the form of waste heat.
+In classical thermodynamics, the concept of entropy is defined phenomenologically by the second law of thermodynamics, which states that the entropy of an isolated system always increases or remains constant. Thus, entropy is also a measure of the tendency of a process, such as a chemical reaction, to be entropically favored, or to proceed in a particular direction. It determines that thermal energy always flows spontaneously from regions of higher temperature to regions of lower temperature, in the form of heat. These processes reduce the state of order of the initial systems, and therefore entropy is an expression of disorder or randomness. This is the basis of the modern microscopic interpretation of entropy in statistical mechanics, where entropy is defined as the amount of additional information needed to specify the exact physical state of a system, given its thermodynamic specification. The second law is then a consequence of this definition and the fundamental postulate of statistical mechanics.
+Thermodynamic entropy has the dimension of energy divided by temperature, and a unit of joules per kelvin (J/K) in the International System of Units.
+The term entropy was coined in 1865 by Rudolf Clausius based on the Greek e?t??p?a [entropía], a turning toward, from e?- [en-] (in) and t??p? [trope] (turn, conversion)
+There are two related definitions of entropy: the thermodynamic definition and the statistical mechanics definition. The thermodynamic definition was developed in the early 1850s by Rudolf Clausius and essentially describes how to measure the entropy of an isolated system in thermodynamic equilibrium. Importantly, it makes no reference to the microscopic nature of matter. The statistical definition was developed by Ludwig Boltzmann in the 1870s by analyzing the statistical behavior of the microscopic components of the system. Boltzmann showed that this definition of entropy was equivalent to the thermodynamic entropy to within a constant number which has since been known as Boltzmann s constant. In summary, the thermodynamic definition of entropy provides the experimental definition of entropy, while the statistical definition of entropy extends the concept, providing an explanation and a deeper understanding of its nature.
+Thermodynamic entropy is a non-conserved state function that is of great importance in the sciences of physics and chemistry.[4][5] Historically, the concept of entropy evolved in order to explain why some processes (permitted by conservation laws) occur spontaneously while their time reversals (also permitted by conservation laws) do not; systems tend to progress in the direction of increasing entropy.
+Now!   shouted Gandalf.  Now is the last chance. Run for it!  
+Aragorn picked up Frodo where he lay by the wall and made for the stair, pushing Merry and
+Pippin in front of him. The others followed; but Gimli had to be dragged away by Legolas: in spite
+of the peril he lingered by Balin s tomb with his head bowed. Boromir hauled the eastern door to,
+grinding upon its hinges: it had great iron rings on either side, but could not be fastened.
+ I am all right,  gasped Frodo. `I can walk. Put me down!  
+Aragorn nearly dropped him in his amazement.  I thought you were dead!   he cried.
+ Not yet!   said Gandalf.  But there is time for wonder. Off you go, all of you, down the stairs!
+Wait a few minutes for me at the bottom, but if I do not come soon, go on! Go quickly and choose
+paths leading right and downwards. 
+ We cannot leave you to hold the door alone!   said Aragorn.
+`Do as I say!   said Gandalf fiercely. `Swords are no more use here. Go! 
+The passage was lit by no shaft and was utterly dark. They groped their way down a long flight
+of steps, and then looked back; but they could see nothing, except high above them the faint
+glimmer of the wizard s staff. He seemed to be still standing on guard by the closed door. Frodo
+breathed heavily and leaned against Sam, who put his arms about him. They stood peering up the
+stairs into the darkness. Frodo thought he could hear the voice of Gandalf above, muttering words
+that ran down the sloping roof with a sighing echo. He could not catch what was said. The walls
+seemed to be trembling. Every now and again the drum-beats throbbed and rolled: _doom, doom_.
+Suddenly at the top of the stair there was a stab of white light. Then there was a dull rumble and
+a heavy thud. The drum-beats broke out wildly: _doom-boom, doom-boom_, and then stopped.
+Gandalf came flying down the steps and fell to the ground in the midst of the Company.
+`Well, well! That s over!   said the wizard struggling to his feet. `I have done all that I could. But
+I have met my match, and have nearly been destroyed. But don t stand here! Go on! You will have
+to do without light for a while: I am rather shaken. Go on! Go on! Where are you, Gimli? Come
+ahead with me! Keep close behind, all of you! 
+They stumbled after him wondering what had happened. _Doom, doom_ went the drum-beats
+again: they now sounded muffled and far away, but they were following. There was no other sound
+of pursuit, neither tramp of feet, nor any voice. Gandalf took no turns, right or left, for the passage
+seemed to be going in the direction that he desired. Every now and again it descended a flight of
+steps, fifty or more, to a lower level. At the moment that was their chief danger; for in the dark they
+could not see a descent, until they came on it, and put their feet out into emptiness. Gandalf felt the
+ground with his staff like a blind man.
+At the end of an hour they had gone a mile, or maybe a little more, and had descended many
+flights of stairs. There was still no sound of pursuit. Almost they began to hope that they would
+escape. At the bottom of the seventh flight Gandalf halted.
+`It is getting hot!   he gasped. `We ought to be down at least to the level of the Gates now. Soon
+I think we should look for a left-hand turn to take us east. I hope it is not far. I am very weary. I
+must rest here a moment, even if all the orcs ever spawned are after us. 
+Gimli took his arm and helped him down to a seat on the step. `What happened away up there at
+the door?   he asked. `Did you meet the beater of the drums?  
+ I do not know,  answered Gandalf. `But I found myself suddenly faced by something that I have
+not met before. I could think of nothing to do but to try and put a shutting-spell on the door. I know
+many; but to do things of that kind rightly requires time, and even then the door can be broken by
+strength.
+`As I stood there I could hear orc-voices on the other side: at any moment I thought they would
+burst it open. I could not hear what was said; they seemed to be talking in their own hideous
+language. All I caught was _ghâsh;_ that is "fire". Then something came into the chamber – I felt it
+through the door, and the orcs themselves were afraid and fell silent. It laid hold of the iron ring,
+and then it perceived me and my spell.
+ What it was I cannot guess, but I have never felt such a challenge. The counter-spell was
+terrible. It nearly broke me. For an instant the door left my control and began to open! I had to
+speak a word of Command. That proved too great a strain. The door burst in pieces. Something
+dark as a cloud was blocking out all the light inside, and I was thrown backwards down the stairs.
+All the wall gave way, and the roof of the chamber as well, I think.
+`I am afraid Balin is buried deep, and maybe something else is buried there too. I cannot say.
+But at least the passage behind us was completely blocked. Ah! I have never felt so spent, but it is
+passing. And now what about you, Frodo? There was not time to say so, but I have never been
+more delighted in my life than when you spoke. I feared that it was a brave but dead hobbit that
+Aragorn was carrying. 
+`What about me?   said Frodo.  I am alive, and whole I think. I am bruised and in pain, but it is
+not too bad. 
+`Well,  said Aragorn, `I can only say that hobbits are made of a stuff so tough that I have never
+met the like of it. Had I known, I would have spoken softer in the Inn at Bree! That spear-thrust
+would have skewered a wild boar!  
+ Well, it did not skewer me, I am glad to say,  said Frodo; `though I feel as if I had been caught
+between a hammer and an anvil.  He said no more. He found breathing painful.
+ You take after Bilbo,  said Gandalf. `There is more about you than meets the eye, as I said of
+him long ago.  Frodo wondered if the remark meant more than it said.
+They now went on again. Before long Gimli spoke. He had keen eyes in the dark. `I think,  he
+said, `that there is a light ahead. But it is not daylight. It is red. What can it be?  
+`_Ghâsh!_  muttered Gandalf. `I wonder if that is what they meant: that the lower levels are on
+fire? Still, we can only go on. 
+Soon the light became unmistakable, and could be seen by all. It was flickering and glowing on
+the walls away down the passage before them. They could now see their way: in front the road
+sloped down swiftly, and some way ahead there stood a low archway; through it the glowing light
+came. The air became very hot.
+When they came to the arch Gandalf went through, signing to them to wait. As he stood just
+beyond the opening they saw his face lit by a red glow. Quickly he stepped back.
+`There is some new devilry here,  he said,  devised for our welcome no doubt. But I know now
+where we are: we have reached the First Deep, the level immediately below the Gates. This is the
+Second Hall of Old Moria; and the Gates are near: away beyond the eastern end, on the left, not
+more than a quarter of a mile. Across the Bridge, up a broad stair, along a wide road through the
+First Hall, and out! But come and look!  
+They peered out. Before them was another cavernous hall. It was loftier and far longer than the
+one in which they had slept. They were near its eastern end; westward it ran away into darkness.
+Down the centre stalked a double line of towering pillars. They were carved like boles of mighty
+trees whose boughs upheld the roof with a branching tracery of stone. Their stems were smooth and
+black, but a red glow was darkly mirrored in their sides. Right across the floor, close to the feet of
+two huge pillars a great fissure had opened. Out of it a fierce red light came, and now and again
+flames licked at the brink and curled about the bases of the columns. Wisps of dark smoke wavered
+in the hot air.
+ If we had come by the main road down from the upper halls, we should have been trapped here, 
+said Gandalf. `Let us hope that the fire now lies between us and pursuit. Come! There is no time to
+lose. 
+Even as he spoke they heard again the pursuing drum-beat: _Doom, doom, doom_. Away
+beyond the shadows at the western end of the hall there came cries and horn-calls. _Doom, doom_:
+the pillars seemed to tremble and the flames to quiver.
+`Now for the last race!   said Gandalf.  If the sun is shining outside we may still escape. After
+me!  
+He turned left and sped across the smooth floor of the hall. The distance was greater than it had
+looked. As they ran they heard the beat and echo of many hurrying feet behind. A shrill yell went
+up: they had been seen. There was a ring and clash of steel. An arrow whistled over Frodo s head.
+Boromir laughed. `They did not expect this,  he said. `The fire has cut them off. We are on the
+wrong side!  
+`Look ahead!   called Gandalf. `The Bridge is near. It is dangerous and narrow. 
+Suddenly Frodo saw before him a black chasm. At the end of the hall the floor vanished and fell
+to an unknown depth. The outer door could only be reached by a slender bridge of stone, without
+kerb or rail, that spanned the chasm with one curving spring of fifty feet. It was an ancient defence
+of the Dwarves against any enemy that might capture the First Hall and the outer passages. They
+could only pass across it in single file. At the brink Gandalf halted and the others came up in a pack
+behind.
+ Lead the way, Gimli!   he said.  Pippin and Merry next. Straight on and up the stair beyond the
+door!  
+Arrows fell among them. One struck Frodo and sprang back. Another pierced Gandalf s hat and
+stuck there like a black feather. Frodo looked behind. Beyond the fire he saw swarming black
+figures: there seemed to be hundreds of orcs. They brandished spears and scimitars which shone red
+as blood in the firelight. _Doom, doom_ rolled the drum-beats, growing louder and louder, _doom,
+doom_.
+Legolas turned and set an arrow to the string, though it was a long shot for his small bow. He
+drew, but his hand fell, and the arrow slipped to the ground. He gave a cry of dismay and fear. Two
+great trolls appeared; they bore great slabs of stone, and flung them down to serve as gangways
+over the fire. But it was not the trolls that had filled the Elf with terror. The ranks of the orcs had
+opened, and they crowded away, as if they themselves were afraid. Something was coming up
+behind them. What it was could not be seen: it was like a great shadow, in the middle of which was
+a dark form, of man-shape maybe, yet greater; and a power and terror seemed to be in it and to go
+before it.
+It came to the edge of the fire and the light faded as if a cloud had bent over it. Then with a rush
+it leaped across the fissure. The flames roared up to greet it, and wreathed about it; and a black
+smoke swirled in the air. Its streaming mane kindled, and blazed behind it. In its right hand was a
+blade like a stabbing tongue of fire; in its left it held a whip of many thongs.
+ Ai! ai!   wailed Legolas.  A Balrog! A Balrog is come!  
+Gimli stared with wide eyes. `Durin s Bane!   he cried, and letting his axe fall he covered his
+face.
+ A Balrog,  muttered Gandalf. `Now I understand.  He faltered and leaned heavily on his staff.
+`What an evil fortune! And I am already weary. 
+The dark figure streaming with fire raced towards them. The orcs yelled and poured over the
+stone gangways. Then Boromir raised his horn and blew. Loud the challenge rang and bellowed,
+like the shout of many throats under the cavernous roof. For a moment the orcs quailed and the
+fiery shadow halted. Then the echoes died as suddenly as a flame blown out by a dark wind, and
+the enemy advanced again.
+ Over the bridge!  cried Gandalf, recalling his strength. `Fly! This is a foe beyond any of you. I
+must hold the narrow way. Fly!   Aragorn and Boromir did not heed the command, but still held
+their ground, side by side, behind Gandalf at the far end of the bridge. The others halted just within
+the doorway at the hall s end, and turned, unable to leave their leader to face the enemy alone.
+The Balrog reached the bridge. Gandalf stood in the middle of the span, leaning on the staff in
+his left hand, but in his other hand Glamdring gleamed, cold and white. His enemy halted again,
+facing him, and the shadow about it reached out like two vast wings. It raised the whip, and the
+thongs whined and cracked. Fire came from its nostrils. But Gandalf stood firm.
+`You cannot pass,  he said. The orcs stood still, and a dead silence fell. `I am a servant of the
+Secret Fire, wielder of the flame of Anor. You cannot pass. The dark fire will not avail you, flame
+of Udûn. Go back to the Shadow! You cannot pass. 
+The Balrog made no answer. The fire in it seemed to die, but the darkness grew. It stepped
+forward slowly on to the bridge, and suddenly it drew itself up to a great height, and its wings were
+spread from wall to wall; but still Gandalf could be seen, glimmering in the gloom; he seemed
+small, and altogether alone: grey and bent, like a wizened tree before the onset of a storm.
+From out of the shadow a red sword leaped flaming.
+Glamdring glittered white in answer.
+There was a ringing clash and a stab of white fire. The Balrog fell back and its sword flew up in
+molten fragments. The wizard swayed on the bridge, stepped back a pace, and then again stood
+still.
+ You cannot pass!   he said.
+With a bound the Balrog leaped full upon the bridge. Its whip whirled and hissed.
+ He cannot stand alone!   cried Aragorn suddenly and ran back along the bridge.  _Elendil!_  he
+shouted.  I am with you, Gandalf!  
+`Gondor!   cried Boromir and leaped after him.
+At that moment Gandalf lifted his staff, and crying aloud he smote the bridge before him. The
+staff broke asunder and fell from his hand. A blinding sheet of white flame sprang up. The bridge
+cracked. Right at the Balrog s feet it broke, and the stone upon which it stood crashed into the gulf,
+while the rest remained, poised, quivering like a tongue of rock thrust out into emptiness.
+With a terrible cry the Balrog fell forward, and its shadow plunged down and vanished. But
+even as it fell it swung its whip, and the thongs lashed and curled about the wizard s knees,
+dragging him to the brink. He staggered and fell, grasped vainly at the stone, and slid into the
+abyss.  Fly, you fools!   he cried, and was gone.
+The fires went out, and blank darkness fell. The Company stood rooted with horror staring into
+the pit. Even as Aragorn and Boromir came flying back, the rest of the bridge cracked and fell.
+With a cry Aragorn roused them.
+ Come! I will lead you now!   he called.  We must obey his last command. Follow me!  
+They stumbled wildly up the great stairs beyond the door. Aragorn leading, Boromir at the rear.
+At the top was a wide echoing passage. Along this they fled. Frodo heard Sam at his side weeping,
+and then he found that he himself was weeping as he ran. _Doom, doom, doom_ the drum-beats
+rolled behind, mournful now and slow; _doom!_
+They ran on. The light grew before them; great shafts pierced the roof. They ran swifter. They
+passed into a hall, bright with daylight from its high windows in the east. They fled across it.
+Through its huge broken doors they passed, and suddenly before them the Great Gates opened, an
+arch of blazing light.
+There was a guard of orcs crouching in the shadows behind the great door posts towering on
+either side, but the gates were shattered and cast down. Aragorn smote to the ground the captain
+that stood in his path, and the rest fled in terror of his wrath. The Company swept past them and
+took no heed of them. Out of the Gates they ran and sprang down the huge and age-worn steps, the
+threshold of Moria.
+Thus, at last, they came beyond hope under the sky and felt the wind on their faces.
+They did not halt until they were out of bowshot from the walls. Dimrill Dale lay about them.
+The shadow of the Misty Mountains lay upon it, but eastwards there was a golden light on the land.
+It was but one hour after noon. The sun was shining; the clouds were white and high.
+They looked back. Dark yawned the archway of the Gates under the mountain-shadow. Faint
+and far beneath the earth rolled the slow drum-beats: _doom_. A thin black smoke trailed out.
+Nothing else was to be seen; the dale all around was empty. _Doom_. Grief at last wholly
+overcame them, and they wept long: some standing and silent, some cast upon the ground. _Doom,
+doom_. The drum-beats faded.
+I have got to tell anyone who will listen that this is one of THE best adventure movies I ve ever seen. It s almost impossible to convey how pumped I am now that I ve seen it. I purposefully avoid hyping myself for movies because when expectations are too high, nothing seems to be able to reach them. I usually avoid the hype train whenever possible. That said, I was jacked to see this movie and was fully aboard the hype train. It couldn t be helped. So, I was certainly open to intense disappointment had this movie not been good. I m so happy to report just the opposite has happened.
+The only word I can think of to describe this movie is AWESOME. It s amazing work and everything I had hoped for and more. It s exceptional entertainment for the uninitiated but it has everything a fanboy could want to be sure. It has every little nuance of what a fanboy wants to see. One of the MANY things I loved was the tension and flat out conflict that arises between team members. It s not a two dimensional "team wonderful that bands together to fight crime ho ho ho." Most don t like each other at fist and there is so much texture to be played. That is great because so many of these characters are larger than life. They have egos and the big guns aren t used to working with other people or even playing by the rules. Stark, Thor and Banner all work "the other side of the fence" so to speak. Then there s the Widow, Hawkeye and Captain America who are used to following orders and playing within a command structure. They are all thrown together in a wonderful and, best of all, believable fashion. Again, more than I ever dreamed possible.
+The entire cast really delivered. You needed more than just action actors or stunt doubles to play all these parts. The pathos is there but so are the timing and true deep performances. Look, I was missing Ed Norton as much as anyone on that hype train I talked about but I m so happy to say that Mark Ruffalo won me over. I hope he s locked up for the long haul because we don t need any more changes. Three was the lucky number for movie Banners. Every other actor in Avnegers that we ve seen before is BETTER than their previous incarnation (EVERY single one) with the possible exception of RDJ as Stark. He s great but it s hard to top his take on the character from the original Iron Man in an ensemble movie. I also have to fully disclose that I m insanely attracted to Scarlett Johansson. I thought her Widow character was amazing but I m definitely judging that through rose colored glasses. The character arcs that run there course during this film will surprise a lot of general audiences expecting nothing more than a Transformers type popcorn scarfdown.
+I honestly don t want to give away ANY of the movie with this review because this is one film that needs every scene to be savored. Do yourself a favor and remain unspoiled. It s how I saw the movie (apart from what the trailers showed) and even though you re obviously reading this review, read no others with any kind of spoilers whatsoever. Experience the awesomeness for yourself. Avengers as a movie and as a team on screen is an unstoppable force. I m just going to say, Hulk & Thor combination equals AWESOME and leave it at that. This movie defines MUST SEE.
+ had fearful reservations about this one. I loved Tim Burton s Batman - 12 years old when it came out I was the perfect age for it and I also enjoyed Batman Returns. The franchise went so wrong under Joel Schumacher that I wasn t sure I wanted it resurrected. Not least because Batman was one of the few comics I read and enjoyed as a kid and was always my favourite superhero. I grew up reading the comics, watching reruns of the Adam West TV show and then getting Burton s celluloid vision. I was spoilt for choice as a kid but as an adult now I was concerned revisiting the franchise, especially given Warner s record over the last decade of screwing up summer blockbusters with potential all over the place (dare I bring up the Matrix sequels?)
+However, I am pleased to report I could not have been more wrong about how great Christopher Nolan s Batman Begins is. This is better than Burton. Sacrilege, you say?! Well Burton was still cartoony in many elements, he wasn t churning out the bilge of Schumacher but Burton s Batman was still over the top. As a kid this was ideal but Nolan s Batman is real. Everything in this world seems plausible and it is therefore a world that draws you in. Characters  vulnerability is that much more present. Every bruise, every scare, every concern, every emotion seems real.
+Part of this is that Nolan has assembled an exemplary cast. Again, this concerned me prior to seeing the film. I wasn t sure a cast of big name legends like Michael Caine and Morgan Freeman and well known names like Liam Neeson and Katie Holmes wouldn t detract and distract from Batman. I was always sure Christian Bale could be the great moody Batman he s been waiting his career to be but the others I wasn t so sure about.
+That said Bale is not just good, he s superb. I never thought I d really be able to envision anyone other than Michael Keaton as the definitive Batman for me but since seeing Batman Begins a couple of days ago Bale has cemented himself in the position. Perhaps Keaton will now be able to escape the spectre of Batman he hasn t truly shaken off for 13 years.
+The rest of the cast is also pitch perfect. Cillian Murphy is creepy as hell, Liam Neeson is authoritative and imposing, Katie Holmes is strong and sexy (I particularly thought she d be insipid, she should jettison Tom Cruise and let her talent - which she does have naysayers just watch Pieces Of April - speak for itself) and Michael Caine is an Alfred you ve never seen but in fact far more likely as a butler than the aristocratic pomp with which he is usually portrayed. Gary Oldman is also superb in a rare wholly decent character for him as Lieutenant Jim Gordon who gets far more to so here than Gordon has ever had to do before. Only Tom Wilkinson is a little off with a slightly comedic wise-guy American accent that never really convinces.
+The emotional bond between Bruce Wayne and Alfred is actually a wonderful human heart to the film than Nolan and Goyer have written perfectly.
+Don t let that make you think the action is not front and centre though. From Wayne s training through the early stages of the film to his early missions as Batman at about the half way point to a thrillingly choreographed chase sequence and an edge of your seat finale this film delivers the cool quotient in bucket loads.
+Great villains (especially Murphy), great story, great cast, great action... put simply, great film. Probably the best comic-book movie ever made (that s excluding the genius Sin City which I consider a moving comic-book rather than a comic-book movie, that will never be bettered but Batman is a different beast and the best of its kind).
+Two years ago, Google drove its way into a fair amount of hot water when it accidentally (as was claimed) scooped up private data over WiFi while collecting Street View and location data. Now, the Justice Department has cleared the prolific mapsters of the wiretapping violations. The DOJ made its decision not to push for prosecution based on reports from employees and investigating key documents reports Wired. The Wiretap Act (which is the relevant one here) was argued to only pertain to "traditional radio services," by US District Judge James Ware, but neither the DOJ or FCC said they could find any evidence that Google accessed the date it snared. In an extra move of openness, the search giant has also released the entire FCC report on the Street View investigation (redacted to protect identities) which can be found in the more coverage link. So, next time you see the famous camera-topped wagons roll around, you can leave your tin hat in the closet.
+When Steve Wozniak talks mobile, people love to listen. Last time we checked in, he was lauding some of Android s finer points, and now he s raining praise on Windows Phone. In an interview with A New Domain, the Apple co-founder was all too happy to share his recent positive experiences with the Espoo / Redmond collaboration. In particular, Woz waxes about how intuitive the interface is, and how naturally apps lead you around. He goes on to say how there s nothing he s seen that isn t more beautiful (than iOS and Android) on the Windows system, before claiming Android is "no contest" when it comes to the interface. It s not all lemonade and roses, however, as he then admits he s no fan of the voice control functionality compared to the other two platforms. When pushed to admit what he uses as default, it s still the iPhone -- two of them in fact -- but Woz s ability to see the best in all mobile operating systems will be sure to further confirm his status as one of tech s most liked. Head down to the source to hear for yourself.
+Product delays that push back release dates a full year are never good. What s worse? When that product finally does launch and even someone inside the company votes against it. That s exactly what s going down with the CT510 GameBox, the Eedoo Kinect competitor for the Chinese market. Though it s gone through a fair share of reincarnations before arriving at its current config (it was formerly known as the eBox), the final package has a dual-core CPU, a minimum of 250GB in HDD storage and a 3D GPU, and comes pre-installed with eight games and ten apps. All told, it will cost a cool 3,799 yuan ($600) when it ships on April 29th -- some very ambitious pricing, considering that the imported Xbox with Kinect (the console isn t officially available in China) already sells for about $459 in China, according to M.I.C. Gadget. A director from the Lenovo-backed company seems to agree: in a Sina Weibo poll asking users whether they d buy the product (pictured after the break), he selected the answer, "No way! Price-to-performance ratio too low." Though to be fair, the gentleman later clarified that it was an honest mistake, and that his company is targeting the high-end family users instead of the core gamers. Well, we shall let the sales figures do the talking.
+Following news of the first successful white space trials in Cambridge, UK, Nokia is now touting its research in the area with a demonstration of location-based services for the unlicensed spectrum. Traditionally, proponents of white space usage have positioned this unused portion of the airwaves as a viable, low-cost method of data transmission, but the Nokia folks have now demonstrated its ability to pinpoint one s location with much greater accuracy than either WiFi or cellular networks. Think of it as a counterpoint to NFC, if you will, but in the following clip, we re shown how an individual might move throughout a museum, and as they approach various exhibits, one s smartphone could provide supplemental information for the nearby artifacts. Beyond its use in museums, Nokia also foresees the technology as useful in the retail space, where businesses may provide consumers with promotions as they walk by. Currently, the necessary equipment to make this all possible is much too large to fit within a typical smartphone, but Nokia hypothesizes that the necessary chipsets and industry standards may be in place by 2015. Until then, you can dream of what might be with the following video.
+Cast your mind back to January if you will. Head full of steamy CES action? Of course, but you may also remember Google teased us about a new tilt-and-roll Maps game. Well, it looks like the creators may have missed the original February deadline, having finally snuck it out this week. The browser-based game is a series of maze challenges, that ll take you through the streets of San Francisco, downtown Tokyo and beyond. All atop Google s iconic 3D textured maps, naturally. Eight levels in total are on offer, making it an ideal lunchtime -- or if the boss is away -- afternoon time kill. Roll down to the source link below to give it a spin, nudge and roll.
+QR codes and RFID tags aren t uncommon when it comes to automated payment applications, and now Colorado-based ShelfX has purposed them for its new wireless-equipped Vending Fridges. Eliminating the need for a cashier -- or cash, for that matter -- each unit allows you to purchase any items packed inside by scanning a QR code with your phone (using the company s app) or an RFID badge. Upon presenting either method to the machine, it s able to tell who you are and unlocks its door. From there, you can grab whatever you d like, while ShelfX automatically pulls funds your account for what s been removed. The system is also smart enough to know when goods are put back, so you won t have to worry about being charged while making up your mind. All of the money goes through ShelfX, allowing it to take "a small percentage" for itself before sending a monthly payment to owners. The Vending Fridge is currently on sale for $600, and a retrofitting kit for your own fridge is also available for half that amount -- no word on whether it has kid-blocking or crab-proofing options, though. You ll find more information in the press release just after the break.
+There are those in the general aviation community who think electric planes are the future for private aircraft, but regulatory hurdles are in place preventing them from proliferating in our skies. You see, current FAA requirements for light sport aircraft (LSA) -- planes that can be flown by anyone with a pilot s license -- preclude electric powerplants, and that makes such planes unavailable to most private pilots. Well, today at the CAFE Electric Aircraft Symposium, FAA analyst Tom Gunnarson delivered some good news for flying EV advocates, stating that the FAA has completed its regulatory study on electric aircraft, and the rulemaking process will begin soon. Once those rules have been written, electrically-propelled aircraft will be available for use as LSA by the public, which isn t possible today given their current status as experimental craft. The bad news? Governmental wheels spin slowly, and Gunnarson said that incorporating those new rules into the current regulatory framework will take five years if we re lucky, but ten years is a more likely time frame for the FAA to finish. In the meantime, you ll have to settle for air shows or terrestrial transport to get your EV fix.
+Times recorded for loading are shown in blue, for scripting in yellow, and for rendering in purple. You can toggle visibility of each of these event types using three colored checkboxes in the status line. You can also filter out the events shorter than 15ms. by toggling the filter button in the status bar. The button will be highlighted with blue when short events are visible and will turn black when the events are filtered out.
+Note a thin blue and red marks over the time rulers—these correspond to the time when DOMContentLoaded and loaded events are fired during page loading.
+The lower part of the window lists events, with more information provided in parentheses. To change the width of the sidebar, drag the line to the right of the sidebar.
+Note that the first event, Send Request (Calendar.html) is shown with a bar that consists of three shades of blue. The darkest one marks the time that the event itself took, the next one corresponds to the CPU time that this event along with all the nested events took (here, it includes Receive Response, Receive Data and so on), and the palest bar stands for the wall time between the start of the first event and the end of the last event.
+To zoom in, move the grey slider on the right-hand side towards the left, until it is next to the blue bar in the Loading row.
+7-13. PDA estimates the quantitative extent of physical damage through
+munition blast, fragmentation, and/or fire damage effects to a target. This
+assessment is based on observed or interpreted damage. While EA is not
+traditionally thought of as physical damage, the EWO can develop an
+immediate assessment of the effectiveness of EA through “observed or
+interpreted damage.”
+7-14. Observed Damage. Much like lethal fires, EA can be either observed
+or unobserved nonlethal fire. Observed EA requires an ES asset to “observe”
+or monitor the effects of the EA on the frequency of the system under attack.
+The EWO must identify EA targets requiring ES collection during the
+DECIDE function of the targeting process. If the requirement becomes a
+PIR, the collection manager will then request or task support for monitoring
+the EA target. The ES asset will then monitor the target and provide
+feedback to the EA asset on the effects of the attack. At the end of the EA
+mission, the EA and ES will send a MAER to the EWO and collection
+manager on the results of the mission.
+7-15. Interpreted Damage. If an ES asset cannot monitor the EA mission,
+then the operator must interpret the effectiveness of the attack based on the
+asset’s proximity to the target, ability to acquire the target, technical factors
+(for example, signal-to-noise ratios), and operator experience. The EA asset
+and SIGINT team cannot quantitatively interpret the effectiveness of
+unobserved EA. Unlike the physical signs of the effects of lethal fires, the
+effects of unobservedEA cannot be evaluated based on post-strike
+reconnaissance.
+A-27. Electronic forms of intelligence gathering (for example, SIGINT,
+measurement and signature intelligence [MASINT]) comprise a significant
+portion of the day-to-day activities of the intelligence community. The
+FM 34-45 distinction between intelligence and ES is determined by who tasks or
+controls the intelligence assets, what they are tasked to provide, and for what
+purpose they are tasked.
+A-28. ES is achieved by intelligence collection, processing, and exploitation
+assets tasked or controlled by an operational commander. These assets are
+tasked to search for, intercept, identify, locate, and report sources of
+intentional or unintentional radiated EM energy.
+A-29. The purpose of ES tasking is immediate threat recognition and other
+tactical actions such as threat avoidance, targeting, and homing. ES is
+intended to respond to an immediate operational requirement. However, the
+same assets and resources, which are tasked with ES, can also collect
+intelligence at the same time that meets other collection requirements.
+Intelligence collected for ES purposes normally are also processed by the
+appropriate parts of the intelligence community for further exploitation after
+the operational commander’s ES requirements are met.
+The old rule that "the sun rises in the east and sets in the west" is a pretty good rule, but it is not quite right.
+Very seldom does the sun lie due east (exactly 900) or due west (exactly 2700) on the horizon. Where exactly it
+does rise and set depends on where you are on the earth s surface and also on what time of year it is. In the
+morning, the sun rises almost east and in the afternoon it sets almost west. However, you can still use the sun
+to find direction by using the shadow-tip field-expedient method. This method is quick, easy, and very accurate.
+Figure 15 illustrates how to do it in three simple steps.
+Step 1. Place a stick or branch in the ground at a level spot where a distinctive shadow will be cast. Mark the
+shadow tip with a stone, twig, or other means. This first shadow mark is always west.
+Step 2. Wait 10 to 15 minutes until the shadow tip moves a few inches. Mark the new position of the shadow
+tip in the same way as the first. This second shadow mark is always east.
+Step 3. Draw a straight line through the two shadow-tip marks to obtain an approximate west-east line.
+Figure 22 shows another way of using resection and modified resection
+to locate your position even closer than what you have just learned.
+First, using your compass, shoot azimuths to your reference points,
+such as the water tower and the road junction. Next, convert the
+magnetic azimuths to grid azimuths, then determine the grid back
+azimuths and plot them on your map.
+Your position is where these grid back azimuths intersect. For more
+details on this method, ask your squad leader or use FM 21-26.
+Your military map shows something important ordinary maps do not. This is elevation and relief-the slopes,
+hills, and valleys. You have already learned about locating points, measuring distances, and finding the right
+direction. But, you should also check hills and valleys along the direction you intend to travel before you start.
+Elevation of a point on the earth s surface is the vertical distance it is above or below sea level. Relief is the
+representation (as depicted by the mapmaker) of the shapes of hills, valleys, streams, or terrain features on the
+earth s surface. There are several methods used by map makers to depict relief and elevation of the terrain.
+Contour lines are the most common method used on a standard military map.
+Contour lines are shown as brown lines on a map. Each line depicts
+the height above sea level. Contour lines never cross one another.
+Printed at the bottom of the map is the contour interval, which is
+the difference in height (elevation) between one brown line and the
+one next to it. On a map with a scale of 1:50,000, the contour
+interval is usually 20 feet.
+This would make point A 80 feet lower than point B (Figure 25).
+You can determine this because every fifth line is heavier than the
+rest and has a number that gives its elevation. You could also get
+an idea of how steep the slope is if you knew the ground distance
+between point A and point B.
+The rate of rise or fall of a terrain feature is known as its slope.
+Contour lines widely spaced show a gentle slope; closer contour lines
+show a steeper slope. Figure 26 shows how the same hill would look
+from the ground. Note that side A would be the easier side to climb.
+You have learned from this booklet how to find your location and write it as a six-digit number coordinate. You
+have also learned how to measure distance, find directions, and read contour lines. If you use this information,
+you can avoid getting lost.
+Practice and review this information before you have to navigate. Do not wait until you are lost before trying to
+remember what you should already know about map reading and land navigation. Also, take time to review FM 21-26.
+It is the policy and intent of Congress to provide a system of civil defense for the protection of life and property in the United States.... The term “civil defense” means all those activities and measures designed to minimize the effects upon the civilian population caused by an attack upon the United States. The Administrator is authorized, in order to carry out the above-mentioned purposes, to ... publicly disseminate appropriate civil defense Information by all appropriate means.
+The primary goal of the Federal Emergency Management Agency (FEMA) is to protect lives and reduce property loss from disasters and emergencies. To accomplish this, FEMA works with state and local governments to help them deliver better, more effective emergency management services across the whole spectrum of hazards—both natural and man-made.
+Regardless of the type, size, or severity of an emergency, certain basic capabilities are needed for an effective response: evacuation, shelter, communications, direction and control, continuity of govern-ment, resource management, law and order, and food and medical supplies. FEMA developed its Integrated Emergency Management System to focus efforts on building these and other generic capabilities needed to cope with a wide range of hazards.
+This publication provides basic preparedness guidance combined with specific measures useful in national security emergencies.
+Most counties and cities throughout the country have civil preparedness programs to reduce the loss of life and property in the event of major emergencies. These emergencies can range from natural disasters such as hurricanes, floods, or tornadoes to man-made emergencies like hazardous materials spills, fire, or nuclear attack.
+This booklet focuses on the ultimate disaster—nuclear attack. It discusses what individuals and families can do to improve their chances for survival in the event of a nuclear attack on the United States. Basic information is provided on the physical effects of a nuclear detonation, attack warning signals, and what to do before, during, and after an attack.
+Much has been done to address emergency needs unique to nuclear attack. Public fallout shelter space has been identified for millions. In addition, some warning and communications networks have been “hardened” against blast and electronic disruptions, preparations have been made to measure fallout radiation, and many local emergency services personnel have been trained in use of radiation detection instruments and other emergency skills.
+This booklet contains general information applicable anywhere in the United States to supplement specific local instructions. Local plans are more detailed and are adapted to particular communities. When local instructions differ from this general guidance, the local instructions should always take precedence.
+For more information on plans for your community, contact your local or state emergency management (civil defense) office.
+An additional effect that can be created by a nuclear detonation is called electromagnetic pulse, or EMP. A nuclear weapon exploding just above the earth’s atmosphere could damage electrical and electronic equipment for thousands of miles. (EMP has no direct effect on living things.)
+EMP is electrical in nature and is roughly similar to the effects of a nearby lightning stroke on electrical or electronic equipment. However, EMP is stronger, faster, and briefer than lightning. EMP charges are collected by typical conductors of electricity, like cables, antennas, power lines, or buried pipes, etc. Basically, anything electronic that is connected to its power source (except batteries) or to an antenna (except one 30 inches or less) at the time of a high altitude nuclear detonation could be affected. The damage could range from minor interruption of function to actual burnout of components.
+When a nuclear weapon explodes on or near the ground, great quantities of pulverized earth and other debris are sucked up into the nuclear cloud. The radioactive gases created by the explosion condense on and into this debris, producing radioactive particles known as fallout.
+There is no way of predicting what areas would be affected by fallout or how soon the particles would fall back to earth at a particular location. The amount of fallout would depend on the number and size of weapons and whether they explode near the ground or in the air. The distribution of fallout would
+be determined by wind currents and other weather conditions. Wind currents across the U.S. move generally from west to east, but actual wind patterns differ unpredictably from day to day. This makes it impossible to predict where fallout would be deposited from a particular attack.
+An area could be affected not only by fallout from a nearby exploding weapon, but also by fallout from a weapon exploded many miles away. Areas close to a nuclear explosion might receive fallout within 15-30 minutes. It might take 5-10 hours or more for the particles to drift down on a community 100 to 200 miles away. No area in the U.S. could be sure of not getting fallout, and it is probable that some fallout particles would be deposited on most of the country.
+Because fallout is actually dirt and other debris, the particles range in size. The largest particles are granular, like grains of sand or salt; the smallest are fine and dust-like.
+At the time of explosion, all fallout particles are highly radioactive. The larger, heavier particles fall within 24 hours, and they are still very dangerous when they reach the ground. The smaller the particle, the longer it takes to fall. The smallest, dust-like particles may not fall back to earth for perhaps months or years, having lost much of their radioactivity while high in the atmosphere. (The rate at which fallout radioactivity decays is described in Figure 2.)
+Fallout radioactivity can be detected only by special instruments which are already contained in the inventories of many state and local emergency services offices.
+The invisible, radioactive rays given off by fallout particles cause radiation sickness—that is, physical and chemical damage to body cells. A large dose of radiation can cause serious illness or death. A smaller dose (or the same large dose received over a longer period of time) allows the body to repair itself.
+Broadly speaking, radiation has a cumulative effect, acting much like a chemical poison. Like chemicals, a large single dose can cause death or severe sickness, depending on its size and the individual’s susceptibility. Usually the effects of a given dose of radiation are more severe in the very young, the elderly, and people not in good health. On the other hand, people can be subjected to small daily doses over extended periods of time without causing serious illness, although there may be delayed consequences. Also, like illness from poison, one person cannot “catch” radiation sickness from another; it’s not contagious.
+There are three kinds of radiation given off by fallout: alpha, beta, and gamma. Alpha radiation is stopped by the outer skin layers. Beta radiation is more penetrating and may cause burns if unprotected skin is exposed to fresh fallout particles for a few hours. But of the three, gamma poses the greatest threat to life and is the most difficult to protect against. Gamma radiation can penetrate the entire body—like a strong x-ray—and cause damage in organs, blood, and bones. If exposed to enough gamma radiation, too many cells can be damaged to allow the body to recover.
+Following are estimated short-term effects on humans after brief (a period of a few days to a week) whole-body exposure to gamma radiation.
+Magneto was born Max Eisenhardt sometime in the late 1920s to a middle class German Jewish family whose father, Jakob Eisenhardt was a highly decorated World War I veteran.[1] Surviving discrimination and hardship during the Nazi rise to power, Kristallnacht, and the passing of the Nuremberg Laws, in 1939 Max and his family fled to Poland where they were captured during the German invasion of Poland and sent to the Warsaw Ghetto.[1][17] Max and his family escaped the Ghetto, only to be betrayed and captured again. His mother, father, and sister were executed and buried in a mass grave, but Max survived, possibly due to the manifestation of his powers. Escaping from the mass grave, he was ultimately captured yet again[18] and sent to Auschwitz, where he eventually became a Sonderkommando.[18][19][20] While at Auschwitz, Eisenhardt reunited with a Roma girl named Magda, with whom he had fallen in love when he was younger, and with whom he escaped the prison camp during the October 7th 1944 revolt. Following the war, he and Magda moved to the Ukrainian city of Vinnytsia, and Max adopted the name "Magnus". Magda and Magnus had a daughter named Anya, and lived uneventfully until one night when an angry mob burned down their home with Anya still inside. Enraged at the mob for preventing him from rescuing Anya, the young Magnus s powers manifested uncontrollably, killing the mob and destroying a part of the city. Magda, terrified at Magnus  power, left him and later gave birth to the mutant twins Quicksilver and the Scarlet Witch before walking away to die. Wanted by the authorities for the deaths and destruction in Vinnytsia, while searching for Magda, Magnus paid a Romanian forger, George Odekirk, to create the cover identity of "Erik Lehnsherr the Sinte gypsy" for him.[3]
+"Erik" relocated to Israel, where he met and befriended Charles Xavier while working at a psychiatric hospital near Haifa.[2] There, lengthy debates were held by the two regarding the consequences humanity faces with the rise of mutants, though neither revealed to the other that they both in fact possessed mutant powers. However, they were forced to reveal their inherent abilities to one another while facing Baron Strucker and HYDRA. Following the battle, Erik (now dressed as Magneto), realizing that his and Xavier s views were incompatible, left with a cache of hidden Nazi gold, which provided him with the finances to pursue his goals.
+Magneto s experiences surviving Nazi Germany, Auschwitz, and Vinnytsia would shape his outlook on the situation that mutants face in the Marvel Universe. Determined to keep such atrocities from ever being committed against mutantkind, he is willing to use deadly force to protect mutants. He would believe that mutants ("Homo superior") will become the dominant life form on the planet and would set about either creating a homeland on Earth where mutants could live peacefully, or conquering and enslaving humanity in the name of mutantkind.
+Magneto s first villainous act was attacking a United States military base called Cape Citadel after bringing down missiles. He was defeated by Charles Xavier s mutant students, the X-Men, in their first mission.[21] He creates Asteroid M, an orbital base of operations in a hollowed out asteroid that he wanted to be a homeland for all mutantkind. He then gathered a group of angry and disillusioned mutants including his own, albeit at the time unbeknown to him, son and daughter Quicksilver and the Scarlet Witch and formed the Brotherhood of Evil Mutants to further his goals. Magneto briefly conquers the fictional South American nation of San Marco in the hopes of establishing a mutant homeland there after stealing a military ship and getting Mastermind to cast an illusion of an army, but is once again foiled by the X-Men.[22] He tried to make the Toad infiltrate the X-Men, but when that failed he captured the Angel and tried to force him to tell the secrets of the X-Men. However the other X-Men were able to rescue their member and destroy Asteroid M.[volume & issue needed]
+Constant defeat of him and the Brotherhood by the X-Men led him to get captured by the Stranger, a powerful alien being, whom Magneto initially thought was another powerful mutant. The Stranger encased Magneto and Toad in a special cocoon and spirited him away to another planet, the Stranger s laboratory world. Back on Earth, Magneto s Brotherhood splintered, and Quicksilver and Scarlet Witch deserted him.[23] Magneto escaped to Earth by repairing a spaceship on the Stranger s planet, but left the Toad behind. He captured nearly all the X-Men and took over the Mansion, hoping to use the parents of Warren Worthington III to create a race of mutants, but was then recaptured by the Stranger after Xavier telepathically contacted the Stranger.[24] Magneto remained on the Stranger s world for a time, but escaped again, made his way back to Earth, and reassembled the Brotherhood of Evil Mutants with the exception of the mutant Mastermind.[25] He then captured the X-Men, but with the help of the Avengers and a rebellious member of the Brotherhood, Toad, Magneto was defeated again.
+Magneto then created the Savage Land Mutates. With the Savage Land Mutates, he clashed with the X-Men and Ka-Zar.[26] Along with Namor, Magneto later attacked New York City.[27] He later fought the Inhumans Royal Family,[28] and battled the Avengers once more.[29]
+Magneto later reorganized the Brotherhood, and fought Professor X and the Defenders. Using ancient and advanced alien technology he found near the core of the earth, Magneto created an artificial humanoid he named "Alpha the Ultimate Mutant." Alpha rebelled against his creator and reduced Magneto to infancy.[30] Magneto was then placed in the care of Xavier s former love interest, Professor Moira MacTaggert at Muir Island. At Muir Island, MacTaggert manipulated the infant Magneto s genetic code in an attempt to prevent him from becoming "evil" in adulthood. However, her genetic tampering lost its effect when Magneto reactivated his powers again. Magneto is eventually restored to adulthood, but to his physical prime rather than his older age, when he is found at Muir Island by the alien Shi ar agent Erik the Red.[31]
+Magneto later gathered a new Brotherhood of Evil Mutants, and with them battled Captain America.[32] He then opposed Doctor Doom s conquest of Earth.[33]
+Magneto later discovered that former Brotherhood members the Scarlet Witch and Quicksilver are actually his children, simultaneously learning about their recent marriages to the Vision and Crystal. He revealed to Quicksilver and the Scarlet Witch that he is their father.[34] He also discovered his granddaughter, Quicksilver s human child Luna Maximoff.[34] Seeing Luna as a bond to the human race he has rejected, Magneto tried to reach out to his children. Angered by his rejection of them and their mother, they pushed him away and refused to forgive him.[34]
+Magneto found himself allied with Professor Xavier and the X-Men when a group of heroes and villains were abducted by the Beyonder, a nearly omnipotent alien being. This entity took them to a planet he created called the Battleworld to participate in a personal experiment of his to observe the concept of the battle between good and evil which would later be known as the Secret Wars. The characters were sorted according to their desires; Magneto was placed with the heroes as his desires were based on a wish to help mutants rather than the more selfish drives of the others. This surprised many of the other heroes, who still believed him to be a villain, although eventually they came to accept him as an ally. Captain America even spoke in his defense on some occasions, and the Wasp developed a certain affection for him, although it was tempered by her knowledge of his past.[35]
+After the Secret Wars, Magneto was transported back to his base, Asteroid M, where the alien Warlock, traveling to Earth, collided into the asteroid, breaking it to pieces. Magneto was sent falling towards Earth and into the Atlantic Ocean, sustaining serious injuries. He was rescued by Lee Forrester, the captain of a fishing trawler.[36] Lee helped him recuperate from his injuries, and the two shared a small romance.[volume & issue needed]
+After recuperating from his injuries, Magneto was asked to aid the X-Men in battling the returned Beyonder.[volume & issue needed] Magneto stayed with the X-Men even after the Beyonder was defeated.[volume & issue needed] His association with the team softened his views on humanity, and Magneto eventually surrendered himself to the law to stand trial for his crimes. A special tribunal was organized which chose to strike all charges against Magneto from prior to his "rebirth," deeming that this had constituted a figurative death of the old Magneto. However, the tribunal was interrupted by an attack from Fenris, the twin children of Baron Wolfgang von Strucker. Fenris was defeated, but Professor X was brought to near-death due to the strain of the battle and previously sustained injuries. Xavier asked Magneto to take over his school and the X-Men, and told him that doing so would make amends enough for his past crimes. Magneto agreed and chose not to return to the courtroom. Instead, he took over Xavier s school under the assumed identity of Michael Xavier, Charles Xavier s cousin.[37] Seeing him try to reform, the Scarlet Witch and Quicksilver began accepting him as their father.[volume & issue needed]
+Though Magneto made a substantial effort as the headmaster of the New Mutants and an ally to the X-Men, his tenure was disastrous. The Beyonder plagued him yet again, slaying Xavier s current students, the New Mutants,[38] and bringing them back to life soon after.[39] This deeply traumatized the entire group.[40] Magneto was then manipulated by Emma Frost, headmistress of her own school, the Massachusetts Academy, and White Queen of the Hellfire Club, into battling sanctioned heroes the Avengers and the Supreme Soviets.[41] Magneto submitted to a trial once again, but used mind-control circuitry he salvaged from the wreckage of Asteroid M to alter the opinions of the head justice in charge of the trial. As a result, Magneto was finally absolved of his past crimes but found that this had only fueled the hostility that normal humans have towards mutants.[42] Feeling that desperate measures needed to be taken after the genocidal massacre in the Morlock tunnels, Magneto and Storm joined the Hellfire Club jointly as the White King.[43] He was unable to prevent his students Roberto da Costa and the alien Technarch Warlock from running away from the school,[44] or prevent the death of the young mutant student Douglas Ramsey after the students snuck away yet again to save a friend,[45] and witnessed the apparent death of all of the senior X-Men on national television.[46]
+His relationship with the New Mutants deteriorated even further when they saw him and the Hellfire Club negotiating with the demons of the Inferno incident.[47] Magneto later ousted longtime Hellfire Club co-chair Sebastian Shaw in order to establish himself as the head of the Hellfire Club as the Grey King. During this confrontation he revealed his real purpose of raising an army for the coming war between humans and mutants.[48] The New Mutants did not return to Magneto s tutelage.
+Seeing conditions for mutants grow progressively more perilous, Magneto began seeking allies to protect mutants from humanity. He participated in the Acts of Vengeance alongside such established villains as Doctor Doom, the Wizard, the Mandarin, and the Red Skull.[volume & issue needed] His temporary alliance with the Red Skull — an unrepentant Nazi war criminal — was a highly uneasy one. After confirming that the Skull was the original one who had worked with Hitler, Magneto took revenge upon him by entombing him alive.[49] He also fought a cosmically powered Spider-Man in order to examine his powers.[50] He worked alongside Rogue, Ka-Zar, and the American intelligence agent Nick Fury as well as a number of Russian operatives in order to reestablish peace in the Savage Land.[51] This ultimately led to an altercation with Zaladane, who had appropriated the magnetic powers of Magneto s then-unknown daughter, Polaris. The conflict ended with Magneto executing Zaladane himself. With her death, Magneto renounced his previous efforts to act as a mentor to the New Mutants and to follow Xavier s beliefs in peaceful co-existence between mutants and normal humans.[52]
+This chapter describes techniques for booting your Linux system. Depending on
+your hardware and whether you want to run any other operating systems, you can
+configure the system to automatically boot Linux or to provide a choice between
+several operating systems. Choosing between operating systems is generally
+referred to as dual booting, although you can select between more than two. We
+talk more about dual booting in the section “Dual-Booting Linux and Windows
+2000/XP/Vista” on page 536.
+An alternative to dual booting is virtualization, where you run one or more virtual
+operating systems inside a real operating system. The real system is known as the
+host, and the virtual systems are known as guests. Virtualization makes it easy to
+switch between systems without having to reboot. Two ways to run virtual
+systems are to make Linux the host system with another operating system running
+in a virtual machine. See Chapter 15 for an overview of virtualization concepts
+and for information on how to run guest systems under Linux. You can also run
+Linux as a guest with another operating system such as Windows as the host.
+Two ways to do this are with Microsoft’s Virtual PC and VMware server. Both are
+free downloads and are available at www.microsoft.com and www.vmware.com,
+respectively.
+Once your Linux system is installed, rebooting the system is generally straightforward.
+There are several possibilities for configuring your boot process. The most
+common choices are:
+• Boot Linux from a bootable disk, most likely a CD or an installation CD/DVD,
+leaving another operating system to boot from the hard drive.
+• Use the Linux Loader, LILO. This used to be the traditional method of booting
+and lets you boot both Linux and other operating systems.
+• Use GRUB (GRand Unified Bootloader), the GNU graphical boot loader and
+command shell. Like LILO, GRUB lets you boot both Linux and other operating
+systems. GRUB, which has additional functionality not found in LILO,
+is now the de facto Linux boot loader.
+Whatever method you choose for booting, be sure to have a working boot disk
+available for emergency use. In particular, don’t experiment with the files and
+options in this chapter unless you have a boot disk, because any error could leave
+you unable to boot from the hard disk. Note, though, that one of the advantages
+of using GRUB is that if there is a problem booting from the menu, it drops you
+down to the command-line interface so you can enter commands directly and try
+to recover. In addition, your distribution CD or DVD undoubtedly has a recovery
+option on it. Or you can boot from a live Linux CD such as Knoppix.
+The Boot Process
+On an x86-based PC, the first sector of every hard disk is known as the boot sector
+and contains the partition table for that disk and possibly also code for booting an
+operating system. The boot sector of the first hard disk is known as the master
+boot record (MBR), because when you boot the system, the BIOS transfers control
+to a program that lives on that sector along with the partition table. That code is
+the boot loader, the code that initiates an operating system. When you add Linux
+to the system, you need to modify the boot loader, replace it, or boot from a
+floppy or CD to start Linux.
+In Linux, each disk and each partition on the disk is treated as a device. For
+example, the entire first hard disk is known as /dev/hda, and the entire second
+hard disk is /dev/hdb. The first partition of the first hard drive is /dev/hda1, and the
+second partition is /dev/hda2. The first partition of the second hard drive is /dev/
+hdb1, and so on. If your drives are SCSI or SATA instead of IDE, the naming
+works the same way, except that the devices are /dev/sda, /dev/sda1, and so on.
+Thus, if you want to specify that the Linux partition is the second partition of the
+first hard drive (as in the examples in this chapter), you refer to it as /dev/hda2.
+Note that GRUB has its own disk naming convention, described later in this
+chapter in “GRUB: The Grand Unified Bootloader” on page 516.
+Once you’ve made the decision to install LILO or GRUB, you still need to decide
+how it should be configured. Most Linux distributions will automatically set up
+the booting environment for you, whether you are installing Linux as the primary
+operating system or into a dual-booting environment (or in a virtual guest system
+where the real MBR is not modified). If for some reason your distribution doesn’t
+do it for you, or you want to do it manually, the rest of this chapter will help you.
+If your distribution does set up the boot environment for you, you might still want
+to read the sections on LILO or GRUB to find out how the customize your boot
+loader.
+If you want your system to dual-boot Linux and Windows, you need to know that
+Windows has its own loader installed on the MBR, and it expects that loader to
+be in charge. The standard solution described in this chapter is to add Linux as an
+option in the Windows loader and install LILO or GRUB in the Linux partition as
+a secondary boot loader. The result is that the Windows loader transfers control
+to the secondary loader, which then boots Linux. See “Dual-Booting Linux and
+Windows 2000/XP/Vista” on page 536 for more information. You can also install
+one of the Linux boot loaders in the MBR and use it to boot Windows. (See the
+“Linux+WinNT” and the “Multiboot with GRUB” mini-HOWTOs at the Linux
+Documentation Project [www.tldp.org] if you’re interested in doing that.)
+Yum is a system for managing RPM packages, including installing, updating,
+removing, and maintaining packages; it automatically handles dependencies
+between packages. Yum is derived from yup, an updating system written for
+Yellow Dog Linux, an RPM-based PowerPC distribution. Yum downloads the
+information in the package headers to a directory on your system, which it then
+uses to make decisions about what it needs to do. Yum obtains both the headers
+and the RPMs themselves from a collection of packages on a server, known as a
+repository.
+A repository consists of a set of RPM packages and the package headers, which
+are on a server that can be accessed via FTP or HTTP, from an NFS server, or
+from a local filesystem. A single server can contain one or multiple repositories;
+repositories are often mirrored on many servers, and you can configure yum to
+use multiple repositories. When they are downloaded to your system, the header
+and package files are maintained in /var/cache/yum.
+The configuration file, /etc/yum.conf, is where you customize yum. It consists of
+two section types. The first section, [main], sets configuration defaults for yum
+operation. This section is followed by [server] sections, where each server is
+named according to the repository it specifies. For example, for Fedora, you might
+have [base] for the base Fedora repository and [development] for the development
+repository.
+The server sections can also be stored, one to a file, in /etc/yum.repos.d. yum
+comes with a default yum.conf/ file, which you can use as is or as a starting point
+from which to add additional repositories.
+This is a two-dimensional pattern of ink on paper, but it is perceived as a transparent, three-dimensional cube. Stare at it for a few seconds and it will change to face in a different direction. Carry on staring and it will flip back to the original cube. Both cubes are equally compatible with the two-dimensional data on the retina, so the brain happily alternates between them. Neither is more correct than the other. My point was that there are two ways of looking at natural selection, the gene s angle and that of the individual. If properly understood they are equivalent; two views of the same truth. You can flip from one to the other and it will still be the same neo-Darwinism.
+I now think that this metaphor was too cautious. Rather than propose a new theory or unearth a new fact, often the most important contribution a scientist can make is to discover a new way of seeing old theories or facts. The Necker cube model is misleading because it suggests that the two ways of seeing are equally good. To be sure, the metaphor gets it partly right:  angles , unlike theories, cannot be judged by experiment; we cannot resort to our familiar criteria of verification and falsification. But a change of vision can, at its best, achieve something loftier than a theory. It can usher in a whole climate of thinking, in which many exciting and testable theories are born, and unimagined facts laid bare. The Necker cube metaphor misses this completely. It captures the idea of a flip in vision, but fails to do justice to its value. What we are talking about is not a flip to an equivalent view but, in extreme cases, a transfiguration.
+I hasten to disclaim any such status for my own modest contributions. Nevertheless, it is for this kind of reason that I prefer not to make a clear separation between science and its  popularization . Expounding ideas that have hitherto appeared only in the technical literature is a difficult art. It requires insightful new twists of language and revealing metaphors. If you push novelty of language and metaphor far enough, you can end up with a new way of seeing. And a new way of seeing, as I have just argued, can in its own right make an original contribution to science. Einstein himself was no mean popularizer, and I ve often suspected that his vivid metaphors did more than just help the rest of us. Didn t they also fuel his creative genius. 
+The gene s-eye view of Darwinism is implicit in the writings of R. A. Fisher and the other great pioneers of neo-Darwinism in the early thirties, but was made explicit by W. D. Hamilton and G. C. Williams in the sixties. For me their insight had a visionary quality. But I found their expressions of it too laconic, not full-throated enough. I was convinced that an amplified and developed version could make everything about life fall into place, in the heart as well as in the brain. I would write a book extolling the gene s-eye view of evolution. It should concentrate its examples on social behaviour, to help correct the unconscious group-selectionism that then pervaded popular Darwinism. I began the book in 1972 when power-cuts resulting from industrial strife interrupted my laboratory research. The blackouts unfortunately (from one point of view) ended after a mere two chapters, and I shelved the project until I had a sabbatical leave in 1975. Meanwhile the theory had been extended, notably by John Maynard Smith and Robert Trivers. I now see that it was one of those mysterious periods in which new ideas are hovering in the air. I wrote The Selfish Gene in something resembling a fever of excitement.
+When Oxford University Press approached me for a second edition they insisted that a conventional, comprehensive, page by page revision was inappropriate. There are some books that, from their conception, are obviously destined for a string of editions, and The Selfish Gene was not one of them. The first edition borrowed a youthful quality from the times in which it was written. There was a whiff of revolution abroad, a streak of Wordsworth s blissful dawn. A pity to change a child of those times, fatten it with new facts or wrinkle it with complications and cautions. So, the original text should stand, warts, sexist pronouns and all. Notes at the end would cover corrections, responses and developments. And there should be entirely new chapters, on subjects whose novelty in their own time would carry forward the mood of revolutionary dawn. The result was Chapters 12 and 13. For these I took my inspiration from the two books in the field that have most excited me during the intervening years: Robert Axelrod s The Evolution of Cooperation, because it seems to offer some sort of hope for our future; and my own The Extended Phenotype because for me it dominated those years and because-for what that is worth-it is probably the finest thing I shall ever write.
+The tide  Nice guys finish first  is borrowed from the BBC Horizon television programme that I presented in 1985. This was a fifty-minute documentary on game-theoretic approaches to the evolution of cooperation, produced by Jeremy Taylor. The making of this film, and another. The Blind Watchmaker, by the same producer, gave me a new respect for his profession. At their best. Horizon producers (some of their programmes can be seen in America, often repackaged under the name Nova) turn themselves into advanced scholarly experts on the subject in hand. Chapter 12 owes more than just its title to my experience of working closely with Jeremy Taylor and the Horizon team, and I am grateful.
+I recently learned a disagreeable fact: there are influential scientists in the habit of putting their names to publications in whose composition they have played no part. Apparently some senior scientists claim joint authorship of a paper when all that they have contributed is bench space, grant money and an editorial read-through of the manuscript. For all I know, entire scientific reputations may have been built on the work of students and colleagues! I don t know what can be done to combat this dishonesty. Perhaps journal editors should require signed testimony of what each author contributed. But that is by the way. My reason for raising the matter here is to make a contrast. Helena Cronin has done so much to improve every line-every word-that she should, but for her adamant refusal, be named as joint author of all the new portions of this book. I am deeply grateful to her, and sorry that my acknowledgment must be limited to this. I also thank Mark Ridley, Marian Dawkins and Alan Grafen for advice and for constructive criticism of particular sections. Thomas Webster, Hilary McGlynn and others at Oxford University Press cheerfully tolerated my whims and procrastinations.
+Intelligent life on a planet comes of age when it first works out the reason for its own existence. If superior creatures from space ever visit earth, the first question they will ask, in order to assess the level of our civilization, is:  Have they discovered evolution yet?  Living organisms had existed on earth, without ever knowing why, for over three thousand million years before the truth finally dawned on one of them. His name was Charles Darwin. To be fair, others had had inklings of the truth, but it was Darwin who first put together a coherent and tenable account of why we exist. Darwin made it possible for us to give a sensible answer to the curious child whose question heads this chapter. We no longer have to resort to superstition when faced with the deep problems: Is there a meaning to life.  What are we for? What is man? After posing the last of these questions, the eminent zoologist G. G. Simpson put it thus:  The point I want to make now is that all attempts to answer that question before 1859 are worthless and that we will be better off if we ignore them completely. 
+Today the theory of evolution is about as much open to doubt as the theory that the earth goes round the sun, but the full implications of Darwin s revolution have yet to be widely realized. Zoology is still a minority subject in universities, and even those who choose to study it often make their decision without appreciating its profound philosophical significance. Philosophy and the subjects known as  humanities  are still taught almost as if Darwin had never lived. No doubt this will change in time. In any case, this book is not intended as a general advocacy of Darwinism. Instead, it will explore the consequences of the evolution theory for a particular issue. My purpose is to examine the biology of selfishness and altruism.
+Apart from its academic interest, the human importance of this subject is obvious. It touches every aspect of our social lives, our loving and hating, fighting and cooperating, giving and stealing, our greed and our generosity. These are claims that could have been made for Lorenz s On Aggression, Ardrey s The Social Contract, and Eibl-Eihesfeldt s Love and Hate. The trouble with these books is that their authors got it totally and utterly wrong. They got it wrong because they misunderstood how evolution works. They made the erroneous assumption that the important thing in evolution is the good of the species (or the group) rather than the good of the individual (or the gene). It is ironic that Ashley Montagu should criticize Lorenz as a  direct descendant of the "nature red in tooth and claw" thinkers of the nineteenth century ... . As I understand Lorenz s view of evolution, he would be very much at one with Montagu in rejecting the implications of Tennyson s famous phrase. Unlike both of them, I think  nature red in tooth and claw  sums up our modern understanding of natural selection admirably.
+Before beginning on my argument itself, I want to explain briefly what sort of an argument it is, and what sort of an argument it is not. If we were told that a man had lived a long and prosperous life in the world of Chicago gangsters, we would be entitled to make some guesses as to the sort of man he was. We might expect that he would have qualities such as toughness, a quick trigger finger, and the ability to attract loyal friends. These would not be infallible deductions, but you can make some inferences about a man s character if you know something about the conditions in which he has survived and prospered. The argument of this book is that we, and all other animals, are machines created by our genes. Like successful Chicago gangsters, our genes have survived, in some cases for millions of years, in a highly competitive world. This entities us to expect certain qualities in our genes. I shall argue that a predominant quality to be expected in a successful gene is ruthless selfishness. This gene selfishness will usually give rise to selfishness in individual behaviour. However, as we shall see, there are special circumstances in which a gene can achieve its own selfish goals best by fostering a limited form of altruism at the level of individual animals.  Special  and  limited  are important words in the last sentence. Much as we might wish to believe otherwise, universal love and the welfare of the species as a whole are concepts that simply do not make evolutionary sense.
+This brings me to the first point I want to make about what this book is not. I am not advocating a morality based on evolution. I am saying how things have evolved. I am not saying how we humans morally ought to behave. I stress this, because I know I am in danger of being misunderstood by those people, all too numerous, who cannot distinguish a statement of belief in what is the case from an advocacy of what ought to be the case. My own feeling is that a human society based simply on the gene s law of universal ruthless selfishness would be a very nasty society in which to live. But unfortunately, however much we may deplore something, it does not stop it being true. This book is mainly intended to be interesting, but if you would extract a moral from it, read it as a warning. Be warned that if you wish, as I do, to build a society in which individuals cooperate generously and unselfishly towards a common good, you can expect little help from biological nature. Let us try to teach generosity and altruism, because we are born selfish. Let us understand what our own selfish genes are up to, because we may then at least have the chance to upset their designs, something that no other species has ever aspired to.
+As a corollary to these remarks about teaching, it is a fallacy- incidentally a very common one-to suppose that genetically inherited traits are by definition fixed and unmodifiable. Our genes may instruct us to be selfish, but we are not necessarily compelled to obey them all our lives. It may just be more difficult to learn altruism than it would be if we were genetically programmed to be altruistic. Among animals, man is uniquely dominated by culture, by influences learned and handed down. Some would say that culture is so important that genes, whether selfish or not, are virtually irrelevant to the understanding of human nature. Others would disagree. It all depends where you stand in the debate over  nature versus nurture  as determinants of human attributes. This brings me to the second thing this book is not: it is not an advocacy of one position or another in the nature/nurture controversy. Naturally I have an opinion on this, but I am not going to express it, except insofar as it is implicit in the view of culture that I shall present in the final chapter. If genes really turn out to be totally irrelevant to the determination of modern human behaviour, if we really are unique among animals in this respect, it is, at the very least, still interesting to inquire about the rate to which we have so recently become the exception. And if our species is not so exceptional as we might like to think, it is even more important that we should study the rule.
+The third thing this book is not is a descriptive account of the detailed behaviour of man or of any other particular animal species. I shall use factural details as only illustrative examples. I shall not be saying:  If you look at the behaviour of baboons you will find it to be selfish; therefore the chances are that human behaviour is selfish also . The logic of my  Chicago gangster  argument is quite different. It is this. Humans and baboons have evolved by natural selection. If you look at the way natural selection works, it seems to follow that anything that has evolved by natural selection should be selfish. Therefore we must expect that when we go and look at the behaviour of baboons, humans, and all other living creatures, we shall find it to be selfish. If we find that our expectation is wrong, if we observe that human behaviour is truly altruistic, then we shall be faced with something puzzling, something that needs explaining.
+Before going any further, we need a definition. An entity, such as a baboon, is said to be altruistic if it behaves in such a way as to increase another such entity s welfare at the expense of its own. Selfish behaviour has exactly the opposite effect.  Welfare  is defined as  chances of survival , even if the effect on actual life and death prospects is so small as to seem negligible. One of the surprising consequences of the modem version of the Darwinian theory is that apparently trivial tiny influences on survival probability can have a major impact on evolution. This is because of the enormous time available for such influences to make themselves felt.
+It is important to realize that the above definitions of altruism and selfishness are behavioural, not subjective. I am not concerned here with the psychology of motives. I am not going to argue about whether people who behave altruistically are  really  doing it for secret or subconscious selfish motives. Maybe they are and maybe they aren t, and maybe we can never know, but in any case that is not what this book is about. My definition is concerned only with whether the effect of an act is to lower or raise the survival prospects of the presumed altruist and the survival prospects of the presumed beneficiary.
+It is a very complicated business to demonstrate the effects of behaviour on long-term survival prospects. In practice, when we apply the definition to real behaviour, we must qualify it with the word  apparently . An apparently altruistic act is one that looks, superficially, as if it must tend to make the altruist more likely (however slightly) to die, and the recipient more likely to survive. It often turns out on closer inspection that acts of apparent altruism are really selfishness in disguise. Once again, I do not mean that the underlying motives are secretly selfish, but that the real effects of the act on survival prospects are the reverse of what we originally thought.
+I am going to give some examples of apparently selfish and apparently altruistic behaviour. It is difficult to suppress subjective habits of thought when we are dealing with our own species, so I shall choose examples from other animals instead. First some miscellaneous examples of selfish behaviour by individual animals.
+Blackheaded gulls nest in large colonies, the nests being only a few feet apart. When the chicks first hatch out they are small and defenceless and easy to swallow. It is quite common for a gull to wait until a neighbour s back is turned, perhaps while it is away fishing, and then pounce on one of the neighbour s chicks and swallow it whole. It thereby obtains a good nutritious meal, without having to go to the trouble of catching a fish, and without having to leave its own nest unprotected.
+More well known is the macabre cannibalism of female praying mantises. Mantises are large carnivorous insects. They normally eat smaller insects such as flies, but they will attack almost anything that moves. When they mate, the male cautiously creeps up on the female, mounts her, and copulates. If the female gets the chance, she will eat him, beginning by biting his head off, either as the male is approaching, or immediately after he mounts, or after they separate. It might seem most sensible for her to wait until copulation is over before she starts to eat him. But the loss of the head does not seem to throw the rest of the male s body off its sexual stride. Indeed, since the insect head is the seat of some inhibitory nerve centres, it is possible that the female improves the male s sexual performance by eating his head. If so, this is an added benefit. The primary one is that she obtains a good meal.
+The word  selfish  may seem an understatement for such extreme cases as cannibalism, although these fit well with our definition. Perhaps we can sympathize more directly with the reported cowardly behaviour of emperor penguins in the Antarctic. They have been seen standing on the brink of the water, hesitating before diving in, because of the danger of being eaten by seals. If only one of them would dive in, the rest would know whether there was a seal there or not. Naturally nobody wants to be the guinea pig, so they wait, and sometimes even try to push each other in.
+More ordinarily, selfish behaviour may simply consist of refusing to share some valued resource such as food, territory, or sexual partners. Now for some examples of apparently altruistic behaviour. The stinging behaviour of worker bees is a very effective defence against honey robbers. But the bees who do the stinging are kamikaze fighters. In the act of stinging, vital internal organs are usually torn out of the body, and the bee dies soon afterwards. Her suicide mission may have saved the colony s vital food stocks, but she herself is not around to reap the benefits. By our definition this is an altruistic behavioural act. Remember that we are not talking about conscious motives. They may or may not be present, both here and in the selfishness examples, but they are irrelevant to our definition.
+Laying down one s life for one s friends is obviously altruistic, but so also is taking a slight risk for them. Many small birds, when they see a flying predator such as a hawk, give a characteristic  alarm call , upon which the whole flock takes appropriate evasive action. There is indirect evidence that the bird who gives the alarm call puts itself in special danger, because it attracts the predator s attention particularly to itself. This is only a slight additional risk, but it nevertheless seems, at least at first sight, to qualify as an altruistic act by our definition.
+The commonest and most conspicuous acts of animal altruism are done by parents, especially mothers, towards their children. They may incubate them, either in nests or in their own bodies, feed them at enormous cost to themselves, and take great risks in protecting them from predators. To take just one particular example, many ground-nesting birds perform a so-called  distraction display  when a predator such as a fox approaches. The parent bird limps away from the nest, holding out one wing as though it were broken. The predator, sensing easy prey, is lured away from the nest containing the chicks. Finally the parent bird gives up its pretence and leaps into the air just in time to escape the fox s jaws. It has probably saved the life of its nestlings, but at some risk to itself.
+I am not trying to make a point by telling stories. Chosen examples are never serious evidence for any worthwhile generalization. These stories are simply intended as illustrations of what I mean by altruistic and selfish behaviour at the level of individuals. This book will show how both individual selfishness and individual altruism are explained by the fundamental law that I am calling gene selfishness. But first I must deal with a particular erroneous explanation for altruism, because it is widely known, and even widely taught in schools.
+This explanation is based on the misconception that I have already mentioned, that living creatures evolve to do things  for the good of the species  or  for the good of the group . It is easy to see how this idea got its start in biology. Much of an animal s life is devoted to reproduction, and most of the acts of altruistic self-sacrifice that are observed in nature are performed by parents towards their young.  Perpetuation of the species  is a common euphemism for reproduction, and it is undeniably a consequence of reproduction. It requires only a slight over-stretching of logic to deduce that the  function  of reproduction is  to  perpetuate the species. From this it is but a further short false step to conclude that animals will in general behave in such a way as to favour the perpetuation of the species. Altruism towards fellow members of the species seems to follow.
+This line of thought can be put into vaguely Darwinian terms. Evolution works by natural selection, and natural selection means the differential survival of the  fittest . But are we talking about the fittest individuals, the fittest races, the fittest species, or what.  For some purposes this does not greatly matter, but when we are talking about altruism it is obviously crucial. If it is species that are competing in what Darwin called the struggle for existence, the individual seems best regarded as a pawn in the game, to be sacrified when the greater interest of the species as a whole requires it. To put it in a slightly more respectable way, a group, such as a species or a population within a species, whose individual members are prepared to sacrifice themselves for the welfare of the group, maybe less likely to go extinct than a rival group whose individual members place their own selfish interests first. Therefore the world becomes populated mainly by groups consisting of self-sacrificing individuals. This is the theory of  group selection , long assumed to be true by biologists not familiar with the details of evolutionary theory, brought out into the open in a famous book by V. C. Wynne-Edwards, and popularized by Robert Ardrey in The Social Contract. The orthodox alternative is normally called  individual selection , although I personally prefer to speak of gene selection.
+The quick answer of the  individual selectionist  to the argument just put might go something like this. Even in the group of altruists, there will almost certainly be a dissenting minority who refuse to make any sacrifice. If there is just one selfish rebel, prepared to exploit the altruism of the rest, then he, by definition, is more likely than they are to survive and have children. Each of these children will tend to inherit his selfish traits. After several generations of this natural selection, the  altruistic group  will be over-run by selfish individuals, and will be indistinguishable from the selfish group. Even if we grant the improbable chance existence initially of pure altruistic groups without any rebels, it is very difficult to see what is to stop selfish individuals migrating in from neighbouring selfish groups, and, by inter-marriage, contaminating the purity of the altruistic groups.
+The individual-selectionist would admit that groups do indeed die out, and that whether or not a group goes extinct may be influenced by the behaviour of the individuals in that group. He might even admit that if only the individuals in a group had the gift of foresight they could see that in the long run their own best interests lay in restraining their selfish greed, to prevent the destruction of the whole group. How many times must this have been said in recent years to the working people of Britain? But group extinction is a slow process compared with the rapid cut and thrust of individual competition. Even while the group is going slowly and inexorably downhill, selfish individuals prosper in the short term at the expense of altruists. The citizens of Britain may or may not be blessed with foresight, but evolution is blind to the future.
+Although the group-selection theory now commands litte support within the ranks of those professional biologists who understand evolution, it does have great intuitive appeal. Successive generations of zoology students are surprised, when they come up from school, to find that it is not the orthodox point of view. For this they are hardly to be blamed, for in the Nuffield Biology Teachers  Guide, written for advanced level biology schoolteachers in Britain, we find the following:  In higher animals, behaviour may take the form of individual suicide to ensure the survival of the species.  The anonymous author of this guide is blissfully ignorant of the fact that he has said something controversial. In this respect he is in Nobel Prize-winning company. Konrad Lorenz, in On Aggression, speaks of the  species preserving  functions of aggressive behaviour, one of these functions being to make sure that only the fittest individuals are allowed to breed. This is a gem of a circular argument, but the point I am making here is that the group selection idea is so deeply ingrained that Lorenz, like the author of the Nuffield Guide, evidently did not realize that his statements contravened orthodox Darwinian theory.
+I recently heard a delightful example of the same thing on an otherwise excellent B.B.C. television programme about Australian spiders. The  expert  on the programme observed that the vast majority of baby spiders end up as prey for other species, and she then went on to say:  Perhaps this is the real purpose of their existence, as only a few need to survive in order for the species to be preserved !
+Robert Ardrey, in The Social Contract, used the group-selection theory to account for the whole of social order in general. He clearly sees man as a species that has strayed from the path of animal righteousness. Ardrey at least did his homework. His decision to disagree with orthodox theory was a conscious one, and for this he deserves credit.
+Perhaps one reason for the great appeal of the group-selection theory is that it is thoroughly in tune with the moral and political ideals that most of us share. We may frequently behave selfishly as individuals, but in our more idealistic moments we honour and admire those who put the welfare of others first. We get a bit muddled over how widely we want to interpret the word  others , though. Often altruism within a group goes with selfishness between groups. This is a basis of trade unionism. At another level the nation is a major beneficiary of our altruistic self-sacrifice, and young men are expected to die as individuals for the greater glory of their country as a whole. Moreover, they are encouraged to kill other individuals about whom nothing is known except that they belong to a different nation. (Curiously, peace-time appeals for individuals to make some small sacrifice in the rate at which they increase their standard of living seem to be less effective than war-time appeals for individuals to lay down their lives.)
+Recently there has been a reaction against racialism and patriotism, and a tendency to substitute the whole human species as the object of our fellow feeling. This humanist broadening of the target of our altruism has an interesting corollary, which again seems to buttress the  good of the species  idea in evolution. The politically liberal, who are normally the most convinced spokesmen of the species ethic, now often have the greatest scorn for those who have gone a little further in widening their altruism, so that it includes other species. If I say that I am more interested in preventing the slaughter of large whales than I am in improving housing conditions for people, I am likely to shock some of my friends.
+The feeling that members of one s own species deserve special moral consideration as compared with members of other species is old and deep. Killing people outside war is the most seriously regarded crime ordinarily committed. The only thing more strongly forbidden by our culture is eating people (even if they are already dead). We enjoy eating members of other species, however. Many of us shrink from judicial execution of even the most horrible human criminals, while we cheerfully countenance the shooting without trial of fairly mild animal pests. Indeed we kill members of other harmless species as a means of recreation and amusement. A human foetus, with no more human feeling than an amoeba, enjoys a reverence and legal protection far in excess of those granted to an adult chimpanzee. Yet the chimp feels and thinks and-according to recent experimental evidence-may even be capable of learning a form of human language. The foetus belongs to our own species, and is instantly accorded special privileges and rights because of it. Whether the ethic of  speciesism , to use Richard Ryder s term, can be put on a logical footing any more sound than that of  racism , I do not know. What I do know is that it has no proper basis in evolutionary biology.
+The muddle in human ethics over the level at which altruism is desirable-family, nation, race, species, or all living tilings-is mirrored by a parallel muddle in biology over the level at which altruism is to be expected according to the theory of evolution. Even the group-selectionist would not be surprised to find members of rival groups being nasty to each other: in this way, like trade unionists or soldiers, they are favouring their own group in the struggle for limited resources. But then it is worth asking how the group-selectionist decides which level is the important one. If selection goes on between groups within a species, and between species, why should it not also go on between larger groupings? Species are grouped together into genera, genera into orders, and orders into classes. Lions and antelopes are both members of the class Mammalia, as are we. Should we then not expect lions to refrain from killing antelopes,  for the good of the mammals ? Surely they should hunt birds or reptiles instead, in order to prevent the extinction of the class. But then, what of the need to perpetuate the whole phylum of vertebrates? 
+It is all very well for me to argue by reductio ad absurdum, and to point to the difficulties of the group-selection theory, but the apparent existence of individual altruism still has to be explained. Ardrey goes so far as to say that group selection is the only possible explanation for behaviour such as  storting  in Thomson s gazelles. This vigorous and conspicuous leaping in front of a predator is analogous to bird alarm calls, in that it seems to warn companions of danger while apparently calling the predator s attention to the stotter himself. We have a responsibility to explain stotting Tommies and all similar phenomena, and this is something I am going to face in later chapters.
+Before that I must argue for my belief that the best way to look at evolution is in terms of selection occurring at the lowest level of all. In this belief I am heavily influenced by G. C. Williams s great book Adaptation and Natural Selection. The central idea I shall make use of was foreshadowed by A. Weismann in pre-gene days at the turn of the century-his doctrine of the  continuity of the germ-plasm . I shall argue that the fundamental unit of selection, and therefore of self-interest, is not the species, nor the group, nor even, strictly, the individual. It is the gene, the unit of heredity. To some biologists this may sound at first like an extreme view. I hope when they see in what sense I mean it they will agree that it is, in substance, orthodox, even if it is expressed in an unfamiliar way. The argument takes time to develop, and we must begin at the beginning, with the very origin of life itself.
+Many problems in AI can be solved in theory by intelligently searching through many possible solutions:[110] Reasoning can be reduced to performing a search. For example, logical proof can be viewed as searching for a path that leads from premises to conclusions, where each step is the application of an inference rule.[111] Planning algorithms search through trees of goals and subgoals, attempting to find a path to a target goal, a process called means-ends analysis.[112] Robotics algorithms for moving limbs and grasping objects use local searches in configuration space.[69] Many learning algorithms use search algorithms based on optimization.
+Simple exhaustive searches[113] are rarely sufficient for most real world problems: the search space (the number of places to search) quickly grows to astronomical numbers. The result is a search that is too slow or never completes. The solution, for many problems, is to use "heuristics" or "rules of thumb" that eliminate choices that are unlikely to lead to the goal (called "pruning the search tree"). Heuristics supply the program with a "best guess" for the path on which the solution lies.[114]
+A very different kind of search came to prominence in the 1990s, based on the mathematical theory of optimization. For many problems, it is possible to begin the search with some form of a guess and then refine the guess incrementally until no more refinements can be made. These algorithms can be visualized as blind hill climbing: we begin the search at a random point on the landscape, and then, by jumps or steps, we keep moving our guess uphill, until we reach the top. Other optimization algorithms are simulated annealing, beam search and random optimization.[115]
+Evolutionary computation uses a form of optimization search. For example, they may begin with a population of organisms (the guesses) and then allow them to mutate and recombine, selecting only the fittest to survive each generation (refining the guesses). Forms of evolutionary computation include swarm intelligence algorithms (such as ant colony or particle swarm optimization)[116] and evolutionary algorithms (such as genetic algorithms and genetic programming).
+Logic[118] is used for knowledge representation and problem solving, but it can be applied to other problems as well. For example, the satplan algorithm uses logic for planning[119] and inductive logic programming is a method for learning.[120]
+Several different forms of logic are used in AI research. Propositional or sentential logic[121] is the logic of statements which can be true or false. First-order logic[122] also allows the use of quantifiers and predicates, and can express facts about objects, their properties, and their relations with each other. Fuzzy logic,[123] is a version of first-order logic which allows the truth of a statement to be represented as a value between 0 and 1, rather than simply True (1) or False (0). Fuzzy systems can be used for uncertain reasoning and have been widely used in modern industrial and consumer product control systems. Subjective logic[124] models uncertainty in a different and more explicit manner than fuzzy-logic: a given binomial opinion satisfies belief + disbelief + uncertainty = 1 within a Beta distribution. By this method, ignorance can be distinguished from probabilistic statements that an agent makes with high confidence.
+Default logics, non-monotonic logics and circumscription[51] are forms of logic designed to help with default reasoning and the qualification problem. Several extensions of logic have been designed to handle specific domains of knowledge, such as: description logics;[45] situation calculus, event calculus and fluent calculus (for representing events and time);[46] causal calculus;[47] belief calculus; and modal logics.[48]
+The simplest AI applications can be divided into two types: classifiers ("if shiny then diamond") and controllers ("if shiny then pick up"). Controllers do however also classify conditions before inferring actions, and therefore classification forms a central part of many AI systems. Classifiers are functions that use pattern matching to determine a closest match. They can be tuned according to examples, making them very attractive for use in AI. These examples are known as observations or patterns. In supervised learning, each pattern belongs to a certain predefined class. A class can be seen as a decision that has to be made. All the observations combined with their class labels are known as a data set. When a new observation is received, that observation is classified based on previous experience.[134]
+A classifier can be trained in various ways; there are many statistical and machine learning approaches. The most widely used classifiers are the neural network,[135] kernel methods such as the support vector machine,[136] k-nearest neighbor algorithm,[137] Gaussian mixture model,[138] naive Bayes classifier,[139] and decision tree.[140] The performance of these classifiers have been compared over a wide range of tasks. Classifier performance depends greatly on the characteristics of the data to be classified. There is no single classifier that works best on all given problems; this is also referred to as the "no free lunch" theorem. Determining a suitable classifier for a given problem is still more an art than science.
+Artificial intelligence, by claiming to be able to recreate the capabilities of the human mind, is both a challenge and an inspiration for philosophy. Are there limits to how intelligent machines can be? Is there an essential difference between human intelligence and artificial intelligence? Can a machine have a mind and consciousness? A few of the most influential answers to these questions are given below.[157]
+Turing s "polite convention": We need not decide if a machine can "think"; we need only decide if a machine can act as intelligently as a human being. This approach to the philosophical problems associated with artificial intelligence forms the basis of the Turing test.[150]
+The Dartmouth proposal: "Every aspect of learning or any other feature of intelligence can be so precisely described that a machine can be made to simulate it." This conjecture was printed in the proposal for the Dartmouth Conference of 1956, and represents the position of most working AI researchers.[158]
+Newell and Simon s physical symbol system hypothesis: "A physical symbol system has the necessary and sufficient means of general intelligent action." Newell and Simon argue that intelligences consist of formal operations on symbols.[159] Hubert Dreyfus argued that, on the contrary, human expertise depends on unconscious instinct rather than conscious symbol manipulation and on having a "feel" for the situation rather than explicit symbolic knowledge. (See Dreyfus  critique of AI.)[160][161]
+Gödel s incompleteness theorem: A formal system (such as a computer program) cannot prove all true statements.[162] Roger Penrose is among those who claim that Gödel s theorem limits what machines can do. (See The Emperor s New Mind.)[163]
+Searle s strong AI hypothesis: "The appropriately programmed computer with the right inputs and outputs would thereby have a mind in exactly the same sense human beings have minds."[164] John Searle counters this assertion with his Chinese room argument, which asks us to look inside the computer and try to find where the "mind" might be.[165]
+The artificial brain argument: The brain can be simulated. Hans Moravec, Ray Kurzweil and others have argued that it is technologically feasible to copy the brain directly into hardware and software, and that such a simulation will be essentially identical to the original.[85]
+The most frequently used argument in favour of dualism is that it appeals to the common-sense intuition that conscious experience is distinct from inanimate matter. If asked what the mind is, the average person would usually respond by identifying it with their self, their personality, their soul, or some other such entity. They would almost certainly deny that the mind simply is the brain, or vice-versa, finding the idea that there is just one ontological entity at play to be too mechanistic, or simply unintelligible.[9] Many modern philosophers of mind think that these intuitions are misleading and that we should use our critical faculties, along with empirical evidence from the sciences, to examine these assumptions to determine whether there is any real basis to them.[9]
+Another important argument in favor of dualism is that the mental and the physical seem to have quite different, and perhaps irreconcilable, properties.[23] Mental events have a subjective quality, whereas physical events do not. So, for example, one can reasonably ask what a burnt finger feels like, or what a blue sky looks like, or what nice music sounds like to a person. But it is meaningless, or at least odd, to ask what a surge in the uptake of glutamate in the dorsolateral portion of the hippocampus feels like.
+Philosophers of mind call the subjective aspects of mental events  qualia  or  raw feels .[23] There is something that it is like to feel pain, to see a familiar shade of blue, and so on. There are qualia involved in these mental events that seem particularly difficult to reduce to anything physical.[24]
+If consciousness (the mind) can exist independently of physical reality (the brain), one must explain how physical memories are created concerning consciousness. Dualism must therefore explain how consciousness affects physical reality. One possible explanation is that of a miracle, proposed by Arnold Geulincx and Nicolas Malebranche, where all mind-body interactions require the direct intervention of God. A similar position by Albert Einstein considers the mind s comprehension of sense impression to be a miracle.[25] Another possible explanation has been proposed by C. S. Lewis,[26] is the Argument from Reason: if, as monism implies, all of our thoughts are the effects of physical causes, then we have no reason for assuming that they are also the consequent of a reasonable ground. Knowledge, however, is apprehended by reasoning from ground to consequent. Therefore, if monism is correct, there would be no way of knowing this—or anything else—we could not even suppose it, except by a fluke.
+The zombie argument is based on a thought experiment proposed by Todd Moody, and developed by David Chalmers in his book The Conscious Mind. The basic idea is that one can imagine one s body, and therefore conceive the existence of one s body, without any conscious states being associated with this body. Chalmers  argument is that it seems very plausible that such a being could exist because all that is needed is that all and only the things that the physical sciences describe about a zombie must be true of it. Since none of the concepts involved in these sciences make reference to consciousness or other mental phenomena, and any physical entity can be by definition described scientifically via physics, the move from conceivability to possibility is not such a large one.[27] Others such as Dennett have argued that the notion of a philosophical zombie is an incoherent,[28] or unlikely,[29] concept. It has been argued under physicalism that one must either believe that anyone including oneself might be a zombie, or that no one can be a zombie—following from the assertion that one s own conviction about being (or not being) a zombie is a product of the physical world and is therefore no different from anyone else s. This argument has been expressed by Dennett who argues that "Zombies think they are conscious; think they have qualia; think they suffer pains—they are just  wrong  (according to this lamentable tradition), in ways that neither they nor we could ever discover!"
+Interactionist dualism, or simply interactionism, is the particular form of dualism first espoused by Descartes in the Meditations.[8] In the 20th century, its major defenders have been Karl Popper and John Carew Eccles.[30] It is the view that mental states, such as beliefs and desires, causally interact with physical states.[9]
+Descartes  famous argument for this position can be summarized as follows: Seth has a clear and distinct idea of his mind as a thinking thing that has no spatial extension (i.e., it cannot be measured in terms of length, weight, height, and so on). He also has a clear and distinct idea of his body as something that is spatially extended, subject to quantification and not able to think. It follows that mind and body are not identical because they have radically different properties.[8]
+At the same time, however, it is clear that Seth s mental states (desires, beliefs, etc.) have causal effects on his body and vice-versa: A child touches a hot stove (physical event) which causes pain (mental event) and makes her yell (physical event), this in turn provokes a sense of fear and protectiveness in the caregiver (mental event), and so on.
+Descartes  argument crucially depends on the premise that what Seth believes to be "clear and distinct" ideas in his mind are necessarily true. Many contemporary philosophers doubt this.[31][32][33] For example, Joseph Agassi suggests that several scientific discoveries made since the early 20th century have undermined the idea of privileged access to one s own ideas. Freud has shown that a psychologically-trained observer can understand a person s unconscious motivations better than the person himself does. Duhem has shown that a philosopher of science can know a person s methods of discovery better than that person herself does, while Malinowski has shown that an anthropologist can know a person s customs and habits better than the person whose customs and habits they are. He also asserts that modern psychological experiments that cause people to see things that are not there provide grounds for rejecting Descartes  argument, because scientists can describe a person s perceptions better than the person herself can.[34][35] The weakness common to all these arguments against interactionism is that they put all introspective insight in doubt. We know people make mistakes about the world (including other s internal states), but not always. Therefore, it is logically absurd to assume persons are always in error about their own mental states and judgements about the nature of the mind itself.
+In contrast to dualism, monism does not accept any fundamental divisions. The fundamentally disseparate nature of reality has been central to forms of eastern philosophies for over two millennia. In Indian and Chinese philosophy, monism is integral to how experience is understood. Today, the most common forms of monism in Western philosophy are physicalist.[11] Physicalistic monism asserts that the only existing substance is physical, in some sense of that term to be clarified by our best science.[43] However, a variety of formulations (see below) are possible. Another form of monism, idealism, states that the only existing substance is mental. Although pure idealism, such as that of George Berkeley, is uncommon in contemporary Western philosophy, a more sophisticated variant called panpsychism, according to which mental experience and properties may be at the foundation of physical experience and properties, has been espoused by some philosophers such as Alfred North Whitehead and David Ray Griffin.
+Equilibrium thermodynamics studies transformations of matter and energy in systems at or near thermodynamic equilibrium. In thermodynamic equilibrium, a system s properties are, by definition, unchanging in time. In thermodynamic equilibrium no macroscopic change is occurring or can be triggered; within the system, every microscopic process is balanced by its opposite; this is called the principle of detailed balance. A central aim in equilibrium thermodynamics is: given a system in a well-defined initial state, subject to specified constraints, to calculate what the equilibrium state of the system will be.[40]
+Within a simple isolated thermodynamic system in thermodynamic equilibrium, in the absence of externally imposed force fields, all properties of the material of the system are spatially homogeneous.[41] Much of the basic theory of thermodynamics is concerned with homogeneous systems in thermodynamic equilibrium.[8][42]
+Most systems found in nature or considered in engineering are not in thermodynamic equilibrium, exactly considered. They are changing or can be triggered to change over time, and are continuously and discontinuously subject to flux of matter and energy to and from other systems.[43] For example, according to Callen, "in absolute thermodynamic equilibrium all radioactive materials would have decayed completely and nuclear reactions would have transmuted all nuclei to the most stable isotopes. Such processes, which would take cosmic times to complete, generally can be ignored.".[43] Such processes being ignored, many systems in nature are close enough to thermodynamic equilibrium that for many purposes their behaviour can be well approximated by equilibrium calculations.
+“No,” says Cato, pushing away the bow. “I’ll do better with
+my sword.” I can see the weapon, a short, heavy blade at his
+belt.
+I give Cato time to hoist himself into the tree before I begin
+to climb again. Gale always says I remind him of a squirrel the
+way I can scurry up even the slenderest limb. Part of it’s my
+weight, but part of it’s practice. You have to know where to
+place your hands and feet. I’m another thirty feet in the air
+when I hear the crack and look down to see Cato flailing as he
+and a branch go down. He hits the ground hard and I’m hoping
+he possibly broke his neck when he gets back to his feet,
+swearing like a fiend.
+The girl with the arrows, Glimmer I hear someone call her
+— ugh, the names the people in District 1 give their children
+are so ridiculous — anyway Glimmer scales the tree until the
+branches begin to crack under her feet and then has the good
+sense to stop. I’m at least eighty feet high now. She tries to
+shoot me and it’s immediately evident that she’s incompetent
+with a bow. One of the arrows gets lodged in the tree near me
+though and I’m able to seize it. I wave it teasingly above her
+head, as if this was the sole purpose of retrieving it, when actually
+I mean to use it if I ever get the chance. I could kill them,
+everyone of them, if those silver weapons were in my hands.
+The Careers regroup on the ground and I can hear them
+growling conspiratorially among themselves, furious I have
+made them look foolish. But twilight has arrived and their
+window of attack on me is closing. Finally, I hear Peeta say
+182
+harshly, “Oh, let her stay up there. It’s not like she’s going anywhere.
+We’ll deal with her in the morning.”
+Well, he’s right about one thing. I’m going nowhere. All the
+relief from the pool water has gone, leaving me to feel the full
+potency of my burns. I scoot down to a fork in the tree and
+clumsily prepare for bed. Put on my jacket. Lay out my sleeping
+bed. Belt myself in and try to keep from moaning. The heat
+of the bag’s too much for my leg. I cut a slash in the fabric and
+hang my calf out in the open air. I drizzle water on the wound,
+my hands.
+All my bravado is gone. I’m weak from pain and hunger but
+can’t bring myself to eat. Even if I can last the night, what will
+the morning bring? I stare into the foliage trying to will myself
+to rest, but the burns forbid it. Birds are settling down for the
+night, singing lullabies to their young. Night creatures emerge.
+An owl hoots. The faint scent of a skunk cuts through the
+smoke. The eyes of some animal peer at me from the neighboring
+tree — a possum maybe — catching the firelight from
+the Careers’ torches. Suddenly, I’m up on one elbow. Those
+are no possum’s eyes, I know their glassy reflection too well.
+In fact, those are not animal eyes at all. In the last dim rays of
+light, I make her out, watching me silently from between the
+branches. Rue.
+How long has she been here? The whole time probably. Still
+and unobserved as the action unfolded beneath her. Perhaps
+she headed up her tree shortly before I did, hearing the pack
+was so close.
+183
+For a while we hold each other’s gaze. Then, without even
+rustling a leaf, her little hand slides into the open and points
+to something above my head.
+“Ohhh.” The sound comes out of my mouth before I can
+stop it. It’s as if the leaves are actually leaching the pain right
+out of the sting.
+Rue gives a giggle. “Lucky you had the sense to pull the
+stingers out or you’d be a lot worse.”
+“Do my neck! Do my cheek!” I almost beg.
+Rue stuffs another handful of leaves in her mouth, and soon
+I’m laughing because the relief is so sweet. I notice a long burn
+on Rue’s forearm. “I’ve got something for that.” I set aside my
+weapons and anoint her arm with the burn medicine.
+“You have good sponsors,” she says longingly.
+“Have you gotten anything yet?” I ask. She shakes her head.
+“You will, though. Watch. The closer we get to the end, the
+more people will realize how clever you are.” I turn the meat
+over.
+“You weren’t joking, about wanting me for an ally?” she
+asks.
+“No, I meant it,” I say. I can almost hear Haymitch groaning
+as I team up with this wispy child. But I want her. Because
+she’s a survivor, and I trust her, and why not admit it? She
+reminds me of Prim.
+“Okay,” she says, and holds out her hand. We shake. “It’s a
+deal.”
+Of course, this kind of deal can only be temporary, but neither
+of us mentions that.
+Rue contributes a big handful of some sort of starchy root
+to the meal. Roasted over the fire, they have the sharp sweet
+taste of a parsnip. She recognizes the bird, too, some wild
+201
+thing they call a groosling in her district. She says sometimes a
+flock will wander into the orchard and they get a decent lunch
+that day. For a while, all conversation stops as we fill our stomachs.
+The groosling has delicious meal that’s so fatty, the
+grease drips down your face when you bite into it.
+“Oh,” says Rue with a sigh. “I’ve never had a whole leg to
+myself before.”
+I’ll bet she hasn’t. I’ll bet meat hardly ever comes her way.
+“Take the other,” I say.
+“Really?” she asks.
+“Take whatever you want. Now that I’ve got a bow and arrows,
+I can get more. Plus I’ve got snares. I can show you how
+to set them,” I say. Rue still looks uncertainly at the leg. “Oh,
+take it,” I say, putting the drumstick in her hands. “It will only
+keep a few days anyway, and we’ve got the whole bird plus
+the rabbit.” Once she’s got hold of it, her appetite wins out and
+she takes a huge mouthful.
+“I’d have thought, in District Eleven, you’d have a bit more
+to eat than us. You know, since you grow the food,” I say.
+Rue’s eyes widen. “Oh, no, we’re not allowed to eat the
+crops.”
+“They arrest you or something?” I ask.
+“They whip you and make everyone else watch,” says Rue.
+“The mayor’s very strict about it.”
+I can tell by her expression that it’s not that uncommon an
+occurrence. A public whipping’s a rare thing in District 12, although
+occasionally one occurs. Technically, Gale and I could
+be whipped on a daily basis for poaching in the woods — well,
+202
+technically, we could get a whole lot worse — except all the
+officials buy our meat. Besides, our mayor, Madge’s father,
+doesn’t seem to have much taste for such events. Maybe being
+the least prestigious, poorest, most ridiculed district in the
+country has its advantages. Such as, being largely ignored by
+the Capitol as long as we produce our coal quotas.
+“Do you get all the coal you want?” Rue asks.
+“No,” I answer. “Just what we buy and whatever we track in
+on our boots.”
+“They feed us a bit extra during harvest, so that people can
+keep going longer,” says Rue.
+“Don’t you have to be in school?” I ask.
+“Not during harvest. Everyone works then,” says Rue.
+It’s interesting, hearing about her life. We have so little
+communication with anyone outside our district. In fact, I
+wonder if the Gamemakers are blocking out our conversation,
+because even though the information seems harmless, they
+don’t want people in different districts to know about one
+another.
+At Rue’s suggestion, we lay out all our food to plan ahead.
+She’s seen most of mine, but I add the last couple of crackers
+and beef strips to the pile. She’s gathered quite a collection of
+roots, nuts, greens, and even some berries.
+I roll an unfamiliar berry in my fingers. “You sure this is
+safe?”
+“Oh, yes, we have them back home. I’ve been eating them
+for days,” she says, popping a handful in her mouth. I tentatively
+bite into one, and it’s as good as our blackberries. Tak203
+ing Rue on as an ally seems a better choice all the time. We divide
+up our food supplies, so in case we’re separated, we’ll
+both be set for a few days. Apart from the food, Rue has a
+small water skin, a homemade slingshot, and an extra pair of
+socks. She also has a sharp shard of rock she uses as a knife. “I
+know it’s not much,” she says as if embarrassed, “but I had to
+get away from the Cornucopia fast.”
+“You did just right,” I say. When I spread out my gear, she
+gasps a little when she sees the sunglasses.
+“How did you get those?” she asks.
+“In my pack. They’ve been useless so far. They don’t block
+the sun and they make it harder to see,” I say with a shrug.
+“These aren’t for sun, they’re for darkness,” exclaims Rue.
+“Sometimes, when we harvest through the night, they’ll pass
+out a few pairs to those of us highest in the trees. Where the
+torchlight doesn’t reach. One time, this boy Martin, he tried to
+keep his pair. Hid it in his pants. They killed him on the spot.”
+“They killed a boy for taking these?” I say.
+“Yes, and everyone knew he was no danger. Martin wasn’t
+right in the head. I mean, he still acted like a three-year-old.
+He just wanted the glasses to play with,” says Rue.
+Hearing this makes me feel like District 12 is some sort of
+safe haven. Of course, people keel over from starvation all the
+time, but I can’t imagine the Peacekeepers murdering a simpleminded
+child. There’s a little girl, one of Greasy Sae’s
+grandkids, who wanders around the Hob. She’s not quite right,
+but she’s treated as a sort of pet. People toss her scraps and
+things.
+204
+“So what do these do?” I ask Rue, taking the glasses.
+“They let you see in complete darkness,” says Rue. “Try
+them tonight when the sun goes down.”
+I give Rue some matches and she makes sure I have plenty
+of leaves in case my stings flare up again. We extinguish our
+fire and head upstream until it’s almost nightfall.
+“Where do you sleep?” I ask her. “In the trees?” She nods.
+“In just your jacket?”
+Rue holds up her extra pair of socks. “I have these for my
+hands.”
+I think of how cold the nights have been. “You can share my
+sleeping bag if you want. We’ll both easily fit.” Her face lights
+up. I can tell this is more than she dared hope for.
+We pick a fork high in a tree and settle in for the night just
+as the anthem begins to play. There were no deaths today.
+“Rue, I only woke up today. How many nights did I miss?”
+The anthem should block out our words, but still I whisper. I
+even take the precaution of covering my lips with my hand. I
+don’t want the audience to know what I’m planning to tell her
+about Peeta. Taking a cue from me, she does the same.
+“Two,” she says. “The girls from Districts One and Four are
+dead. There’s ten of us left.”
+“Something strange happened. At least, I think it did. It
+might have been the tracker jacker venom making me imagine
+things,” I say. “You know the boy from my district? Peeta? I
+think he saved my life. But he was with the Careers.”
+“He’s not with them now,” she says. “I’ve spied on their
+base camp by the lake. They made it back before they col205
+lapsed from the stingers. But he’s not there. Maybe he did save
+you and had to run.”
+I don’t answer. If, in fact, Peeta did save me, I’m in his debt
+again. And this can’t be paid back. “If he did, it was all probably
+just part of his act. You know, to make people think he’s in
+love with me.”
+“Oh,” says Rue thoughtfully. “I didn’t think that was an act.”
+“Course it is,” I say. “He worked it out with our mentor.”
+The anthem ends and the sky goes dark. “Let’s try out these
+glasses.” I pull out the glasses and slip them on. Rue wasn’t
+kidding. I can see everything from the leaves on the trees to a
+skunk strolling through the bushes a good fifty feet away. I
+could kill it from here if I had a mind to. I could kill anyone.
+“I wonder who else got a pair of these,” I say.
+“The Careers have two pairs. But they’ve got everything
+down by the lake,” Rue says. “And they’re so strong.”
+“We’re strong, too,” I say. “Just in a different way.”
+“You are. You can shoot,” she says. “What can I do?”
+“You can feed yourself. Can they?” I ask.
+“They don’t need to. They have all those supplies,” Rue
+says.
+“Say they didn’t. Say the supplies were gone. How long
+would they last?” I say. “I mean, it’s the Hunger Games, right?”
+“But, Katniss, they’re not hungry,” says Rue.
+“No, they’re not. That’s the problem,” I agree. And for the
+first time, I have a plan. A plan that isn’t motivated by the
+need for flight and evasion.
+Can t a young nigga get money anymore?
+Tell PETA my mink is draggin  on the floor
+Can I have a bad bitch wit out no flaws
+Come to meet me wit out no drawers?
+Dinner with Anna Wintour, racin  wit  Anja Rubik
+I told you ma fuckers it was more than the music
+In the projects one day to Project Runway
+We done heard all that loud-ass talkin , we used to it
+I m from where shorties fucked up, double-cupped up
+Might even kill somebody and YouTube it
+So whoever think they words affect me is too stupid
+And if you could do it better than me, then you do it
+We flyer than the parakeet, floatin  wit  no parachute
+Six thousand-dollar pair of shoes, we made it to the Paris news! 
+Don t talk about style,  cause I embarrass you
+Shut the fuck up when you talk to me  fore I embarrass you
+Can t a young nigga get money anymore?
+Tell PETA my mink is draggin  on the floor
+Can I have a bad bitch wit out no flaws
+Come to meet me wit out no drawers?
+And the whole industry wanna fuck yo  old chick
+Only nigga I got respect for is Wiz
+And I ll admit, I fell in love with Kim
+ Round the same time she had fell in love wit  him
+Well, that s cool, baby girl, do ya thing
+Lucky I ain t have Jay drop  I m from the team
+La familia, Roc Nation
+We in the buildin , but still keep it basement
+Flyer than the parakeet, floatin  wit  no parachute
+Six thousand-dollar pair of shoes, I made it to the Paris news
+Don t talk about style,  cause I embarrass you
+Shut the fuck up when you talk to me  fore I embarrassed you
+G.O.O.D. Music, we fresh, we fresh
+Anything else, we detest, detest
+Bitch-ass niggas got ass and breasts
+All that said, lemme ask this quest 
+Can t a young nigga get money anymore?
+Tell PETA my mink is draggin  on the floor
+Can I have a bad bitch wit out no flaws
+Come to meet me wit out... 
+Don t talk to me  bout style, nigga, I ll ma fuckin  embarrass you
+Talkin   bout clothes, I ll ma fuckin  embarrass you
+Hollin   bout some hoes, I ll ma fuckin  embarrass you
+Way too cold, I promise you ll need some Theraflu
+(Uh, uh, uh, uh, uh) Get the Theraflu
+(Uh, uh-uh, uh-uh, uh) Get the Theraflu
+(Uh, uh-uh, uh-uh, uh, uh-uh, uh-uh)
+(Uh, uh-uh, uh-uh uh) Get the Theraflu
+We re going to skate to one song, one song only
+So I ball so hard mothafuckas wanna fine me, first niggas gotta find me
+What s 50 grand to a mothafucka like me, can you please remind me
+(Ball so hard) This shit crazy, y all don t know that don t shit faze me
+The Nets could go 0 for 82 and I d look at you like this shit gravy
+(Ball so hard) This shit weird, we ain t even spose to be here
+(Ball so hard) Since we here, it s only right that we d be fair
+Psycho: I m liable to go Michael, take your pick
+Jackson, Tyson, Jordan, Game 6
+(Ball so hard) Got a broken clock, Rolleys that don t tick tock
+Audemars that s losing time, hidden behind all these big rocks
+(Ball so hard) I m shocked too, I m supposed to be locked up too
+If you escaped what I ve escaped, you d be in Paris getting fucked up too
+(Ball so hard) Let’s get faded, Le Meurice for like 6 days
+Gold bottles, scold models, spillin’ Ace on my sick J’s
+(Ball so hard) Bitch, behave, just might let you meet  Ye
+Chi town s D. Rose, I’m moving the Nets to BK
+Ball so hard mothafuckas want to fine me
+(That shit cray, that shit cray, that shit cray)
+She said, " Ye can we get married at the mall?"
+I said, "Look, you need to crawl  fore you ball
+Come and meet me in the bathroom stall
+And show me why you deserve to have it all."
+That shit cray, ain’t it Jay? What she order, fish filet?
+Your whip so cold – this old thing?
+Act like you’ll ever be around mothafuckas like this again
+Bourgie girl, grab her hand, fuck that bitch she don’t wanna dance
+Excuse my French but I’m in France, I’m just sayin 
+Prince Williams ain’t do it right if you ask me
+Cause I was him, I would have married Kate and Ashley
+What’s Gucci, my nigga? What’s Louis, my killa?
+What’s drugs, my dealer? What’s that jacket, Margiela?
+Doctors say I’m the illest, cause I’m suffering from realness
+Got my niggas in Paris and they going gorillas, huh
+I don t even know what that means
+(No one knows what it means, but it s provocative)
+No it s not, it s gross (Gets the people going)
+You are now watching the throne, don t let me get in my zone
+Don t let me get in my zone, don t let me get in my zone
+These other niggas is lyin, actin’ like the summer ain’t mine
+(I got that hot bitch in my home) You know how many hot bitches I own
+Don t let me get in my zone, don t let me get in my zone
+Don t let me get in my zone, don t let me get in my zone
+The stars is in the building, they hands is to the ceiling
+I know I’m  bout to kill it, how you know? I got that feeling
+You are now watching the throne, don t let me into my zone
+Don t let me into my zone (I’m definitely in my zone)
+Verse 1 (Aesop Rock)
+Flash that buttery gold, jittery zeitgeist
+Wither by the watering hole, water patrol
+What are we, a heart huckabee, art fuckery suddenly?
+Not enough young in his lung for the water wings?
+Colorfully vulgar poacher at a mulch like
+ I ma pull the pulse out a soldier and bolt.  (Fine)
+Sign of the time we elapsed
+When a primate climb up the spine and attach
+Eye for an eye, by the bog s life swamps and vines
+They get a rise out of frogs and flies
+So when a dog fights hog-tied prize sorta costs a life
+The mouths water on a fork and knife
+And the allure isn t right
+It s gore on a war-torn beach
+Where the cash cows actually beef
+Blood turns wine when I leak for police
+Like  That s not a riot, it s a feast, let s eat. 
+Chorus (El-P and Aesop Rock)
+And I will remember your name and face
+On the day you were judged by the funhouse cast
+And I will rejoice in your fall from grace
+With a cane to the sky like  None shall pass. 
+None shall pass, none shall pass
+Verse 2 (Aesop Rock)
+Now if he never had a day a snow cone couldn t fix
+he wouldn t relate to the rouge vocoder bliss
+How he spoke through a no-doz, motor on the fritz
+ Cause he wouldn t play roll over, fetch, like a bitch
+And express no regrets though he isn t worth the homeowners piss
+To the jokers who pose by the glitz (Fine)
+[ From: http://www.metrolyrics.com/none-shall-pass-lyrics-aesop-rock.html ]
+Sign of the swine and the swarm
+When a king is a whore who comply and conform
+Miles outside of the eye of the storm
+With a siphon to lure and a prize and award
+While avoiding the vile and bizarre that is violence and war
+True blue triumph is more
+Like wait, let it snake up outta the centerfold
+Let it break the walls of Jericho. ready? go.
+Sat where the old cardboard city folks
+Swap tails with heads like every other penny throw
+Chorus
+Verse 3 (Aesop Rock)
+Okay, woke to a grocery list
+Goes like this: duty and death
+Anyone object, come stand in the way
+You can be my little Snake River Canyon today
+And I ran with a chain of commands
+And a jetpack strap where the backstab lands if it can. (Fine)
+Sign of the vibe in the crowd
+When I cut a belly open to find what climb out
+What a bit of gusto he muster up
+Make a dark horse rush like enough s enough
+It must a struck a nerve so they huff and puff
+Till all the king s men fluster and clusterfuck
+And it s a beautiful thing
+To my people who keep an impressive wing span
+Even when the cubicle shrink
+You gotta pull up the intruder by the root of the weed
+NY chew through the machine
+I never gave a fuck
+I never a fuck about what niggas thought about me
+I mean I did but like fuck it yummzsayin
+You gon  love me man
+You gon  love me man
+[VERSE 1]
+They can t comprenhend
+They even come close to understanding him
+I guess if I was borin they would love me more
+Guess if I was simple in the mind
+Everything would be fine
+Maybe if I was jerk to girls
+Instead of being nice and speakin kind words
+Then maybe it would be ok to say then
+I wasn t a good guy to begin with
+[HOOK]
+But my mind is all crazy, crazy, crazy... 
+They got me thinkin I aint human, 
+Like I came in from above, above, above... 
+Feelin like a airplane in the sky 
+But then they say I m crazy, crazy, crazy... 
+They got me thinkin I aint human, 
+Like I came in from above, above, above... 
+Feelin like a bird sittin high high
+[CHORUS]
+I be that man on the moon
+I m that man on the moon
+And imma do what I do so
+Do you hey hey
+I be posted with my blunt and a brew my dude
+I m that man on the moon
+I m up up on the moon
+[VERSE 2]
+Close my eyes, hide in the dark
+It s a curtain call, come one come all
+All I do is try to make it simple
+The ones that make it complicated
+Never get congradulated
+I m somethin different in all aspects
+Don t want a woman just to love her assets
+I Still wife her up even with her flat chest
+The type to get hurt
+But that s the past tense
+[HOOK]
+My mind is all hazy, hazy, hazy... 
+I be thinkin that I m ball, 
+Cuz they used to call me lame, lame, lame... 
+But my swag was a little different
+But then my mind is hazy, hazy, hazy... 
+I be thinkin that I m ball, 
+But they the ones who blame, blame, blame... 
+I got the last laugh nigga

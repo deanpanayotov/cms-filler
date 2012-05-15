@@ -1,0 +1,1 @@
+INSERT INTO `WP_DATABASE_NAME`.`wp_terms` (`term_id`, `name`, `slug`, `term_group`) VALUES[a][b][c] (VAR[1][0], 'VAR[1][1]', 'VAR[1][2]', '0')

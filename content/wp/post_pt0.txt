@@ -1,0 +1,10 @@
+INSERT INTO `WP_DATABASE_NAME`.`wp_posts` 
+(`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, `post_title`, `post_excerpt`, `post_status`, `comment_status`,
+ `ping_status`, `post_password`, `post_name`, `to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`,
+ `guid`, `menu_order`, `post_type`, `post_mime_type`, `comment_count`)
+ VALUES[a][b][c] 
+ (VAR[0][0], '1', 'VAR[0][1]', 'VAR[0][2]',
+ 'VAR[0][3]',
+ 'VAR[0][4]', '', 'publish', 'open',
+ 'open', '', 'VAR[0][5]', '', '', 'VAR[0][6]', 'VAR[0][7]', '', '0', 'http://localhost/wp/?p=VAR[0][8]', '0', 'post', '', 'VAR[0][9]')
+ 

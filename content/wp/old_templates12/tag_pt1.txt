@@ -1,0 +1,1 @@
+INSERT INTO `WP_DATABASE_NAME`.`wp_term_taxonomy` (`term_taxonomy_id`, `term_id`, `taxonomy`, `description`, `parent`, `count`) VALUES ('VAR[2][3]', 'VAR[2][4]', 'post_tag', '', '0', '1');

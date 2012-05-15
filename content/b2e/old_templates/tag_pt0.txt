@@ -1,0 +1,2 @@
+INSERT INTO  `b2evolution`.`evo_items__tag` (`tag_ID` ,`tag_name`)
+VALUES ('4', 'rrrrr');

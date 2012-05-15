@@ -1,0 +1,4 @@
+INSERT INTO `B2E_DATABASE_NAME`.`evo_categories` 
+(`cat_ID`, `cat_parent_ID`, `cat_name`, `cat_urlname`, `cat_blog_ID`, `cat_description`, `cat_order`) 
+VALUES[a][b][c] 
+(VAR[1][0], VAR[1][5], 'VAR[1][1]', 'VAR[1][2]', '1', NULL, NULL)
